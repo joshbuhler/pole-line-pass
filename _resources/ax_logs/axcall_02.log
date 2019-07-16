@@ -1,0 +1,159 @@
+Last login: Tue May 29 20:18:50 on ttys001
+jbuhlers-MBP:~ joshuabuhler$ ssh pi@192.168.1.168
+^C
+jbuhlers-MBP:~ joshuabuhler$ ssh pi@192.168.1.127
+pi@192.168.1.127's password: 
+Linux raspberrypi 4.14.34-v7+ #1110 SMP Mon Apr 16 15:18:51 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue May 29 20:20:48 2018 from 192.168.1.131
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+pi@raspberrypi:~ $ axcall -s k7bko 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko 1 ke7bme
+call: invalid port setting
+pi@raspberrypi:~ $ axcall -s k7bko 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ Connection to 192.168.1.127 closed by remote host.
+Connection to 192.168.1.127 closed.
+jbuhlers-MBP:~ joshuabuhler$ ssh pi@192.168.1.127
+pi@192.168.1.127's password: 
+Linux raspberrypi 4.14.34-v7+ #1110 SMP Mon Apr 16 15:18:51 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue May 29 20:34:54 2018 from 192.168.1.131
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 ac7br-4
+GW4PTS AX.25 Connect v1.11
+Trying...
+*** Connected to ac7br-4
+*** Cleared
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 peak
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 kdoj-10
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 kdoj
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 ac7br-4
+GW4PTS AX.25 Connect v1.11
+Trying...
+*** Connected to ac7br-4
+*** Cleared
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 kd0j-10
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 PEAK
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 ac7br-4
+GW4PTS AX.25 Connect v1.11
+Trying...
+*** Connected to ac7br-4
+*** Cleared
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 ac7br-3
+GW4PTS AX.25 Connect v1.11
+Trying...
+*** Connected to ac7br-3
+*** Cleared
+pi@raspberrypi:~ $ axcall -s k7bko -t 3 ac7br-4
+GW4PTS AX.25 Connect v1.11
+Trying...
+*** Connected to ac7br-4
+
+   ac7br-4 │--------│                                                             
+
+>Checkpoint List:
+ Start = A
+ Bountiful "B" = B
+ Sessions Lift Off = C
+ Swallow Rocks = D
+ Big Mountain = E
+ Alexander Ridge = F
+ Lamb's Canyon = G
+ Upper Big Water = H
+ Desolation Lake = I
+ Scott's Peak = J
+ Brighton Lodge = K
+ Ant Knolls = L
+ Pole Line Pass = M
+ Rock Springs = N
+ Pot Hollow = O
+ Staton = P
+ Decker Canyon = Q
+ Soldier Hollow = R
+
+>K7BKO logged in at  Desolation Lake
+
+>Next 10 runners inbound to  Desolation Lake as of 2108 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+274 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+
+>Next 10 runners inbound to  Desolation Lake as of 2110 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+274 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+
+>Checkpoint I Runners Pending 296
+
+>K7BKO logged in at  Pole Line Pass
+
+>Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+
+>Next 10 runners inbound to  Rock Springs as of 2114 hours
+
+>
+-----------------------------------------------------------------------------------------------------
+/i,^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^B^B^B^B^B^B^B^B^B^B^B^B^B^B
+^B^B^B^B^B^B^B^B
+/i,n
+^C/i,n,5
+

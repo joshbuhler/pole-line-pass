@@ -1,0 +1,238 @@
+Last login: Fri May 25 17:44:05 on ttys001
+jbuhlers-MBP:~ joshuabuhler$ ssh pi@192.168.1.127
+pi@192.168.1.127's password: 
+Linux raspberrypi 4.14.34-v7+ #1110 SMP Mon Apr 16 15:18:51 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri May 25 21:30:50 2018 from 192.168.1.128
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+pi@raspberrypi:~ $ axlisten
+3: fm AC7BR-4 to K7BKO ctl UA- 
+3: fm KG7UJH-1 to QST ctl UI^ pid=CD(ARP) len 30 
+ARP: len 30 hwtype AX25 prot IP op REQUEST
+sender IPaddr 44.40.1.67 hwaddr KG7UJH-1
+target IPaddr 44.40.1.68
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 70 
+0000  RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS M
+0040  HEARD.
+3: fm AC7BR-4 to K7BKO ctl I21^ pid=F0(Text) len 120 
+0000  RIV:AC7BR-4} Welcome to the AC7BR Packet node in Riverton, UT. .
+0040  You may connect to the following:..AC7BR-3:RIVBBS    Riv
+3: fm AC7BR-4 to K7BKO ctl I22^ pid=F0(Text) len 120 
+0000  erton, UT. BBS.AC7BR-10:RIVRMS   Riverton, UT. Winlink RMS..Port
+0040  s:.Port 3: 145.050 MHz / 1200 Baud..This node services R
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 120 
+0000  iverton and the south end of Salt Lake County..Sysop is Brad Rup
+0040  p, AC7BR.  Send all inquires to bradrupp@gmail.com..Than
+3: fm AC7BR-4 to K7BKO ctl I24+ pid=F0(Text) len 17 
+0000  ks for visiting..
+3: fm AC7BR-4 to K7BKO ctl I35+ pid=F0(Text) len 30 
+0000  RIV:AC7BR-4} Connected to BBS.
+3: fm AC7BR-4 to K7BKO ctl I36+ pid=F0(Text) len 50 
+0000  [BPQ-6.0.14.7-B2FWIHJM$].Please enter your Name.>.
+3: fm AC7BR-4 to K7BKO ctl I47^ pid=F0(Text) len 128 
+0000  Hello josh. Latest Message is 118, Last listed is 0.Please enter
+0040   your Home BBS using the Home command..You may also enter your Q
+3: fm AC7BR-4 to K7BKO ctl I40+ pid=F0(Text) len 58 
+0000  TH and ZIP/Postcode using qth and zip commands..de AC7BR>.
+3: fm W0HU-5 to AC7BR-4 ctl RR2+ 
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 
+3: fm AC7BR-4 to K7BKO ctl I51+ pid=F0(Text) len 23 
+0000  ZIP is 84096.de AC7BR>.
+3: fm AC7BR-4 to K7BKO ctl I62^ pid=F0(Text) len 128 
+0000  A - Abort Output.B - Logoff.CMSPASS Password - Set CMS Password.
+0040  D - Flag NTS Message(s) as Delivered - D num.HOMEBBS - Display o
+3: fm AC7BR-4 to K7BKO ctl I63^ pid=F0(Text) len 128 
+0000  r get HomeBBS.INFO - Display information about this BBS.I CALL -
+0040   Lookup CALL in WP Allows *CALL CALL* *CALL* wildcards.I@ PARAM 
+3: fm AC7BR-4 to K7BKO ctl I64+ pid=F0(Text) len 128 
+0000  - Lookup @BBS in WP.IZ PARAM - Lookup Zip Codes in WP.IH PARAM -
+0040   Lookup HA elements in WP - eg USA EU etc.K - Kill Message(s) - 
+3: fm AC7BR-4 to K7BKO ctl I65^ pid=F0(Text) len 128 
+0000  K num, KM (Kill my read messages).L - List Message(s) - L = List
+0040   New, LR = List New (Oldest first).                      LM = Li
+3: fm AC7BR-4 to K7BKO ctl I66^ pid=F0(Text) len 128 
+0000  st Mine L> Call, L< Call = List to or from.                     
+0040   LL num = List Last, L num-num = List Range.                    
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 128 
+0000    LN LY LH LK LF L$ LD - List Message with corresponding Status.
+0040                        LB LP LT - List Mesaage with corresponding
+3: fm AC7BR-4 to K7BKO ctl I60^ pid=F0(Text) len 128 
+0000   Type.                      LC List TO fields of all active bull
+0040  etins.LISTFILES or FILES - List files available for download.N N
+3: fm AC7BR-4 to K7BKO ctl I61^ pid=F0(Text) len 128 
+0000  ame - Set Name.NODE - Return to Node.OP n - Set Page Length (Out
+0040  put will pause every n lines).PASS Password - Set BBS Password.P
+3: fm AC7BR-4 to K7BKO ctl I62+ pid=F0(Text) len 128 
+0000  OLLRMS - Manage Polling for messages from RMS .Q QTH - Set QTH.R
+0040   - Read Message(s) - R num, RM (Read new messages to me).READ Na
+3: fm AC7BR-4 to K7BKO ctl I63^ pid=F0(Text) len 128 
+0000  me - Read File.S - Send Message - S or SP Send Personal, SB Send
+0040   Bull, ST Send NTS,.                   SR Num - Send Reply, SC N
+3: fm AC7BR-4 to K7BKO ctl I64+ pid=F0(Text) len 48 
+0000  um - Send Copy.X - Toggle Expert Mode.de AC7BR>.
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 
+3: fm AC7BR-4 to K7BKO ctl I75+ pid=F0(Text) len 29 
+0000  Returned to Node RIV:AC7BR-4.
+3: fm AC7BR-4 to K7BKO ctl I06+ pid=F0(Text) len 70 
+0000  RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS M
+0040  HEARD.
+3: fm AC7BR-4 to K7BKO ctl I17^ pid=F0(Text) len 120 
+0000  RIV:AC7BR-4} Nodes.#ANT:W7JOF-6        #DAV96:K7DAV-9      #LM96
+0040  :N7OEY-6       ANT:W7JOF-7         .DAV:K7DAV-7         
+3: fm AC7BR-4 to K7BKO ctl I10^ pid=F0(Text) len 120 
+0000  IMED:KI7L-7         ISLAND:KD0J-13      KATE:W0HU-6         .LIT
+0040  MTN:N7OEY-9      PEAK:KD0J-10        RIVBBS:AC7BR-3     
+3: fm AC7BR-4 to K7BKO ctl I11+ pid=F0(Text) len 120 
+0000   RIVRMS:AC7BR-10     .SLCOAT:KD6OAT-7     SMTN:W0HU-5         UJ
+0040  HBBS:KG7UJH-2     WVC:K2WVC-6         .WVCBBS:K2WVC-1   
+3: fm AC7BR-4 to K7BKO ctl I12+ pid=F0(Text) len 44 
+0000     WVCCHT:K2WVC-2      WVCRMS:K2WVC-10     .
+3: fm AC7BR-4 to K2WVC-6 ctl I00+ pid=CF(NET/ROM) len 20 
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+3: fm AC7BR-4 to K2WVC-6 ctl RR0+ 
+3: fm K2WVC-6 to AC7BR-4 ctl RR0- 
+3: fm AC7BR-4 to K2WVC-6 ctl I00+ pid=CF(NET/ROM) len 20 
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 
+3: fm AC7BR-4 to K2WVC-6 ctl RR0+ 
+3: fm K2WVC-6 to AC7BR-4 ctl RR0- 
+3: fm AC7BR-4 to K2WVC-6 ctl I00+ pid=CF(NET/ROM) len 20 
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+3: fm K2WVC-6 to AC7BR-4 ctl RR1- 
+3: fm AC7BR-4 to KD0J-10 ctl I73+ pid=CF(NET/ROM) len 37 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         conn rqst: my ckt 01/B0 wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm AC7BR-4 to K7BKO ctl RR2v 
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 
+3: fm KD0J-10 to AC7BR-4 ctl I47^ pid=CF(NET/ROM) len 21 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         conn ack: ur ckt 01/B0 my ckt 00/15 wnd 4
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 39 
+0000  RIV:AC7BR-4} Connected to PEAK:KD0J-10.
+3: fm AC7BR-4 to KD0J-10 ctl RR0v 
+3: fm AC7BR-4 to KD0J-10 ctl I04+ pid=CF(NET/ROM) len 22 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 00/15 txseq 0 rxseq 0
+0000  ?.
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 
+3: fm KD0J-10 to AC7BR-4 ctl I50^ pid=CF(NET/ROM) len 221 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/B0 txseq 0 rxseq 1
+0000  PEAK:KD0J-10}  TYPE 'HELP' OR ? FOLLOWED BY COMMAND FOR MORE INF
+0040  ORMATION.BYE       CONNECT   CQ        HELP      INFO      LINKS
+0080       MHEARD    NODES   .PORTS     ROUTES    STATS     USERS     
+00C0  SYSOP   .
+3: fm AC7BR-4 to K7BKO ctl I34+ pid=F0(Text) len 201 
+0000  PEAK:KD0J-10}  TYPE 'HELP' OR ? FOLLOWED BY COMMAND FOR MORE INF
+0040  ORMATION.BYE       CONNECT   CQ        HELP      INFO      LINKS
+0080       MHEARD    NODES   .PORTS     ROUTES    STATS     USERS     
+00C0  SYSOP   .
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 
+3: fm AC7BR-4 to K7BKO ctl RR3- 
+3: fm AC7BR-4 to KD0J-10 ctl I15+ pid=CF(NET/ROM) len 25 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 00/15 txseq 1 rxseq 1
+0000  info.
+3: fm AC7BR-4 to K7BKO ctl RR4v 
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 
+3: fm KD0J-10 to AC7BR-4 ctl I61^ pid=CF(NET/ROM) len 36 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/B0 txseq 1 rxseq 2
+0000  PEAK:KD0J-10} ..
+3: fm AC7BR-4 to K7BKO ctl I45+ pid=F0(Text) len 16 
+0000  PEAK:KD0J-10} ..
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 
+3: fm AC7BR-4 to KD0J-10 ctl I26+ pid=CF(NET/ROM) len 21 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 00/15 rxseq 2
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 
+3: fm AC7BR-4 to KD0J-10 ctl I27+ pid=CF(NET/ROM) len 26 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 00/15 txseq 2 rxseq 2
+0000  stats.
+3: fm AC7BR-4 to K7BKO ctl RR5v 
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 
+3: fm KD0J-10 to AC7BR-4 ctl I02^ pid=CF(NET/ROM) len 222 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/B0 txseq 2 rxseq 3
+0000  PEAK:KD0J-10} .Time active 3379 mins.Buffers: 255 max, 254 avail
+0040  able, 249 min, 0 out.Known nodes: 12.L4 Connects: 4 sent, 5 rcvd
+0080  .L4 Frames: 27 sent, 69 rcvd, 0 resent, 0 resequenced.L3 Frames 
+00C0  Relayed 0.
+3: fm AC7BR-4 to K7BKO ctl I56+ pid=F0(Text) len 202 
+0000  PEAK:KD0J-10} .Time active 3379 mins.Buffers: 255 max, 254 avail
+0040  able, 249 min, 0 out.Known nodes: 12.L4 Connects: 4 sent, 5 rcvd
+0080  .L4 Frames: 27 sent, 69 rcvd, 0 resent, 0 resequenced.L3 Frames 
+00C0  Relayed 0.
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 
+3: fm AC7BR-4 to KD0J-10 ctl I30+ pid=CF(NET/ROM) len 21 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 00/15 rxseq 3
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 
+3: fm W0HU-5 to AC7BR-4 ctl RR2+ 
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 
+3: fm AC7BR-4 to KD0J-10 ctl I31+ pid=CF(NET/ROM) len 27 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 00/15 txseq 3 rxseq 3
+0000  c w100.
+3: fm AC7BR-4 to K7BKO ctl RR6v 
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 52 
+0000  PEAK:KD0J-10} Attempting downlink to W100 on port 1.
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm AC7BR-4 to KD0J-10 ctl I42+ pid=CF(NET/ROM) len 21 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 00/15 rxseq 4
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm K7BKO-15 to W100 ctl SABM+ 
+3: fm KD0J-10 to AC7BR-4 ctl I34^ pid=CF(NET/ROM) len 61 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/B0 txseq 4 rxseq 4
+0000  PEAK:KD0J-10} Failure to connect to W100.
+3: fm AC7BR-4 to K7BKO ctl I60+ pid=F0(Text) len 41 
+0000  PEAK:KD0J-10} Failure to connect to W100.
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 
+3: fm AC7BR-4 to KD0J-10 ctl I53+ pid=CF(NET/ROM) len 24 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 00/15 txseq 4 rxseq 5
+0000  bye.
+3: fm AC7BR-4 to K7BKO ctl RR7v 
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 
+3: fm KD0J-10 to AC7BR-4 ctl I45^ pid=CF(NET/ROM) len 20 
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         disc: ur ckt 01/B0
+3: fm AC7BR-4 to KD0J-10 ctl I64+ pid=CF(NET/ROM) len 20 
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         disc ack: ur ckt 00/15
+3: fm AC7BR-4 to K7BKO ctl DISC+ 
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 
+

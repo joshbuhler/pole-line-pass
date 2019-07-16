@@ -1,0 +1,1970 @@
+^Cpi@raspberrypi:~ $ axlisten -art
+3: fm K7BKO to PEAK ctl SABM+ 20:28:27
+3: fm K7BKO to PEAK ctl SABM+ 20:28:37
+3: fm K7BKO to PEAK ctl DISC+ 20:28:46
+^Cpi@raspberrypi:~ axcall -s k7bko -t 3 ac7br-4
+GW4PTS AX.25 Connect v1.11
+Trying...
+^C
+pi@raspberrypi:~ $ killall
+Usage: killall [-Z CONTEXT] [-u USER] [ -eIgiqrvw ] [ -SIGNAL ] NAME...
+       killall -l, --list
+       killall -V, --version
+
+  -e,--exact          require exact match for very long names
+  -I,--ignore-case    case insensitive process name match
+  -g,--process-group  kill process group instead of process
+  -y,--younger-than   kill processes younger than TIME
+  -o,--older-than     kill processes older than TIME
+  -i,--interactive    ask for confirmation before killing
+  -l,--list           list all known signal names
+  -q,--quiet          don't print complaints
+  -r,--regexp         interpret NAME as an extended regular expression
+  -s,--signal SIGNAL  send this signal instead of SIGTERM
+  -u,--user USER      kill only process(es) running as USER
+  -v,--verbose        report if the signal was successfully sent
+  -V,--version        display version information
+  -w,--wait           wait for processes to die
+  -Z,--context REGEXP kill only process(es) having context
+                      (must precede other arguments)
+
+pi@raspberrypi:~ $ killall axlisten
+axlisten: no process found
+pi@raspberrypi:~ $ axlisten -art
+3: fm KC7ZNH-2 to T0SVTS via KF6RAL-2* WIDE1* WIDE2-1 ctl UI pid=F0(Text) len 29 20:29:50
+`'U<l $>/'"Bi}|+v%@(!|!wP{!|3
+3: fm KD7GIZ-10 to APWW10 via KF6RAL-2* WIDE1* WIDE2-1 ctl UI^ pid=F0(Text) len 44 20:30:41
+@023039h4113.75N\11203.64W&APRS-IS for Win32
+3: fm ELY to APOT30 via HOLDEN* KF6RAL-1* KF6RAL-2* WIDE3* ctl UI pid=F0(Text) len 66 20:31:02
+!3909.67N/11436.86W#PHG89306/W3, NVn, N7ELY, Cave Mt, Nv /A=010744
+3: fm LGU to BEACON via KF6RAL-2* WIDE2* ctl UI pid=F0(Text) len 77 20:31:17
+;147.260UT*111111z4117.75N/11228.09Wr147.260MHz T103 R95m Net Tu9pm Mtg2ndSA
+3: fm KF7SLT-9 to TQPTUS via KF6RAL-2* WIDE1* WIDE2-1 ctl UIv pid=F0(Text) len 17 20:31:22
+`'T-l!f>/`"C6}_%
+^Cpi@raspberrypi:~ $ sudo shutdown now
+Connection to 192.168.1.127 closed by remote host.
+Connection to 192.168.1.127 closed.
+jbuhlers-MacBook-Pro:~ joshuabuhler$ ssh pi@192.168.1.127
+pi@192.168.1.127's password: 
+Linux raspberrypi 4.14.34-v7+ #1110 SMP Mon Apr 16 15:18:51 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue May 29 20:31:51 2018
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+pi@raspberrypi:~ $ axlisten -art
+listen: no AX.25 port data configured
+^[[A^[[A^[[A^Cpi@rasudo kissattach /dev/ttyAMA0 3 10.1.1.1
+AX.25 port 3 bound to device ax0
+pi@raspberrypi:~ $ axlisten -art
+3: fm N1KBT-9 to EBAQWT via N7JEH-1* WIDE2-1 ctl UIv pid=F0(Text) len 17 20:36:01
+`'V?l#:>/`"B"}_%
+3: fm W0HU-5 to AC7BR-4 ctl RR4+ 20:36:11
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 20:36:12
+3: fm UJHBBS to ID ctl UI^ pid=F0(Text) len 64 20:36:36
+AX25: KG7UJH-1 NetRom: UJHBBS:Jnos Packet BBS/Digipeater (Linux)
+3: fm KG7UJH-2 to NODES ctl UI^ pid=CF(NET/ROM) len 49 20:36:36
+NET/ROM Routing: UJHBBS
+            KD6OAT-7  SLCOAT          W0HU-5     10
+              W0HU-5  SMTN            W0HU-5      8
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:36:45
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:36:46
+3: fm K7BKO to PEAK ctl SABM+ 20:37:16
+3: fm K7BKO to PEAK ctl SABM+ 20:37:26
+3: fm K7BKO to PEAK ctl SABM+ 20:37:47
+3: fm K7BKO to PEAK ctl SABM+ 20:38:17
+3: fm K7BKO to PEAK ctl DISC+ 20:38:34
+3: fm K7BKO to AC7BR-4 ctl SABM+ 20:38:46
+3: fm AC7BR-4 to K7BKO ctl UA- 20:38:47
+3: fm K7BKO to AC7BR-4 ctl I00^ pid=F0(Text) len 2 20:38:53
+?
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 70 20:38:55
+RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS MHEARD
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:38:55
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:39:02
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:39:03
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 13 20:39:06
+connect PEAK
+3: fm AC7BR-4 to KD0J-10 ctl I04+ pid=CF(NET/ROM) len 37 20:39:08
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         conn rqst: my ckt 01/85 wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm AC7BR-4 to K7BKO ctl RR2v 20:39:08
+3: fm PEAK to KD0J-2 ctl RR4- 20:39:11
+3: fm AC7BR-4 to KD0J-10 ctl RR0+ 20:39:12
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 20:39:13
+3: fm W0HU-5 to AC7BR-4 ctl RR4+ 20:39:13
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 20:39:15
+3: fm KD0J-10 to AC7BR-4 ctl I50^ pid=CF(NET/ROM) len 21 20:39:15
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         conn ack: ur ckt 01/85 my ckt 02/2A wnd 4
+3: fm AC7BR-4 to K7BKO ctl I21+ pid=F0(Text) len 39 20:39:16
+RIV:AC7BR-4} Connected to PEAK:KD0J-10
+3: fm K7BKO to AC7BR-4 ctl RR2- 20:39:16
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 20:39:17
+3: fm W0HU-5 to AC7BR-4 ctl RR4+ 20:39:19
+3: fm PEAK to KD0J-2 ctl I41^ pid=F0(Text) len 27 20:39:21
+2039  211 Inbound Runners
+>
+3: fm AC7BR-4 to W0HU-5 ctl I04+ pid=CF(NET/ROM) len 20 20:39:42
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm W0HU-5 to AC7BR-4 ctl RR5- 20:39:42
+3: fm K7BKO to AC7BR-4 ctl I22^ pid=F0(Text) len 9 20:40:27
+c c race
+3: fm K7BKO to AC7BR-4 ctl I23+ pid=F0(Text) len 8 20:40:27
+alskjdf
+3: fm AC7BR-4 to KD0J-10 ctl I15+ pid=CF(NET/ROM) len 29 20:40:28
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 0 rxseq 0
+c c race
+3: fm AC7BR-4 to K7BKO ctl RR4- 20:40:28
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 20:40:29
+3: fm KD0J-10 to AC7BR-4 ctl I61^ pid=CF(NET/ROM) len 90 20:40:30
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 0 rxseq 1
+PEAK:KD0J-10} SYNTAX:  C [[port] call|alias [Via digi1[,digi2]] [/S]]
+3: fm AC7BR-4 to KD0J-10 ctl I16+ pid=CF(NET/ROM) len 28 20:40:32
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 1 rxseq 0
+alskjdf
+3: fm AC7BR-4 to K7BKO ctl I42+ pid=F0(Text) len 70 20:40:33
+PEAK:KD0J-10} SYNTAX:  C [[port] call|alias [Via digi1[,digi2]] [/S]]
+3: fm K7BKO to AC7BR-4 ctl RR3- 20:40:33
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 20:40:33
+3: fm AC7BR-4 to KD0J-10 ctl RR2+ 20:40:36
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 20:40:37
+3: fm KD0J-10 to AC7BR-4 ctl RR7+ 20:40:39
+3: fm AC7BR-4 to KD0J-10 ctl RR2- 20:40:40
+3: fm AC7BR-4 to KD0J-10 ctl I27+ pid=CF(NET/ROM) len 21 20:40:41
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 1
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 20:40:43
+3: fm KD0J-10 to AC7BR-4 ctl RR0+ 20:40:47
+3: fm AC7BR-4 to KD0J-10 ctl RR2- 20:40:47
+3: fm KD0J-10 to AC7BR-4 ctl I02^ pid=CF(NET/ROM) len 50 20:40:49
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 1 rxseq 2
+PEAK:KD0J-10} INVALID COMMAND
+3: fm AC7BR-4 to K7BKO ctl I43+ pid=F0(Text) len 30 20:40:50
+PEAK:KD0J-10} INVALID COMMAND
+3: fm K7BKO to AC7BR-4 ctl RR4- 20:40:50
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 20:40:50
+3: fm AC7BR-4 to KD0J-10 ctl I30+ pid=CF(NET/ROM) len 21 20:40:59
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 2
+3: fm AC7BR-4 to KD0J-10 ctl RR3+ 20:41:03
+3: fm AC7BR-4 to KD0J-10 ctl I30+ pid=CF(NET/ROM) len 21 20:41:05
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 2
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 20:41:06
+3: fm K7BKO to AC7BR-4 ctl I44^ pid=F0(Text) len 20 20:41:13
+.alsfj.connect race
+3: fm AC7BR-4 to KD0J-10 ctl I31+ pid=CF(NET/ROM) len 40 20:41:15
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 2 rxseq 2
+.alsfj.connect race
+3: fm AC7BR-4 to K7BKO ctl RR5v 20:41:15
+3: fm AC7BR-4 to KD0J-10 ctl RR3+ 20:41:19
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 20:41:20
+3: fm AC7BR-4 to KD0J-10 ctl I31+ pid=CF(NET/ROM) len 40 20:41:21
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 2 rxseq 2
+.alsfj.connect race
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 20:41:21
+3: fm KD0J-10 to AC7BR-4 ctl I23^ pid=CF(NET/ROM) len 50 20:41:22
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 2 rxseq 3
+PEAK:KD0J-10} INVALID COMMAND
+3: fm AC7BR-4 to K7BKO ctl I54+ pid=F0(Text) len 30 20:41:23
+PEAK:KD0J-10} INVALID COMMAND
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:41:23
+3: fm AC7BR-4 to K7BKO ctl RR5+ 20:41:27
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:41:27
+3: fm K7BKO to AC7BR-4 ctl I55^ pid=F0(Text) len 13 20:41:32
+connect w100
+3: fm AC7BR-4 to KD0J-10 ctl I42+ pid=CF(NET/ROM) len 21 20:41:32
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 3
+3: fm AC7BR-4 to K7BKO ctl RR6v 20:41:35
+3: fm AC7BR-4 to KD0J-10 ctl RR4+ 20:41:36
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 20:41:37
+3: fm AC7BR-4 to KD0J-10 ctl I43+ pid=CF(NET/ROM) len 33 20:41:38
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 3 rxseq 3
+connect w100
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 20:41:40
+3: fm K7BKO-15 to W100 ctl SABM+ 20:41:40
+3: fm KD0J-10 to AC7BR-4 ctl I44^ pid=CF(NET/ROM) len 72 20:41:41
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 3 rxseq 4
+PEAK:KD0J-10} Attempting downlink to W100 on port 1
+3: fm AC7BR-4 to K7BKO ctl I65+ pid=F0(Text) len 52 20:41:42
+PEAK:KD0J-10} Attempting downlink to W100 on port 1
+3: fm K7BKO to AC7BR-4 ctl RR6- 20:41:42
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 20:41:42
+3: fm K7BKO-15 to W100 ctl SABM+ 20:41:47
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 20:41:49
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 20:41:50
+3: fm AC7BR-4 to KD0J-10 ctl I54+ pid=CF(NET/ROM) len 21 20:41:51
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 4
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 20:41:52
+3: fm K7BKO-15 to W100 ctl SABM+ 20:41:53
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:41:54
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:41:55
+3: fm K7BKO-15 to W100 ctl SABM+ 20:41:59
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:04
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:42:05
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:42:05
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:09
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:42:11
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:15
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:21
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:26
+3: fm K7BKO-15 to W100 ctl SABM+ 20:42:31
+3: fm KD0J-10 to AC7BR-4 ctl I55^ pid=CF(NET/ROM) len 61 20:42:37
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 4 rxseq 4
+PEAK:KD0J-10} Failure to connect to W100
+3: fm AC7BR-4 to K7BKO ctl I66+ pid=F0(Text) len 41 20:42:38
+PEAK:KD0J-10} Failure to connect to W100
+3: fm K7BKO to AC7BR-4 ctl RR7- 20:42:38
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 20:42:38
+3: fm KD0J-10 to AC7BR-4 ctl RR5+ 20:42:42
+3: fm W0HU-5 to AC7BR-4 ctl RR5+ 20:42:43
+3: fm K7BKO to AC7BR-4 ctl I76^ pid=F0(Text) len 2 20:42:44
+?
+3: fm AC7BR-4 to KD0J-10 ctl I65+ pid=CF(NET/ROM) len 22 20:42:46
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 4 rxseq 5
+?
+3: fm AC7BR-4 to K7BKO ctl RR7v 20:42:46
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 20:42:47
+3: fm KD0J-10 to AC7BR-4 ctl I66^ pid=CF(NET/ROM) len 221 20:42:48
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/85 txseq 5 rxseq 5
+PEAK:KD0J-10}  TYPE 'HELP' OR ? FOLLOWED BY COMMAND FOR MORE INFORMATION
+BYE       CONNECT   CQ        HELP      INFO      LINKS     MHEARD    NODES   
+PORTS     ROUTES    STATS     USERS     SYSOP   
+3: fm AC7BR-4 to K2WVC-6 ctl I24+ pid=CF(NET/ROM) len 20 20:42:49
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm AC7BR-4 to K7BKO ctl I77+ pid=F0(Text) len 201 20:42:51
+PEAK:KD0J-10}  TYPE 'HELP' OR ? FOLLOWED BY COMMAND FOR MORE INFORMATION
+BYE       CONNECT   CQ        HELP      INFO      LINKS     MHEARD    NODES   
+PORTS     ROUTES    STATS     USERS     SYSOP   
+3: fm K7BKO to AC7BR-4 ctl RR0- 20:42:51
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 20:42:51
+3: fm K2WVC-6 to AC7BR-4 ctl RR5- 20:42:53
+3: fm K7BKO to AC7BR-4 ctl I07^ pid=F0(Text) len 4 20:42:59
+bye
+3: fm AC7BR-4 to KD0J-10 ctl I76+ pid=CF(NET/ROM) len 21 20:42:59
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2A rxseq 6
+3: fm AC7BR-4 to K7BKO ctl RR0v 20:43:02
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 20:43:04
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 20:43:05
+3: fm AC7BR-4 to KD0J-10 ctl I77+ pid=CF(NET/ROM) len 24 20:43:06
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2A txseq 5 rxseq 6
+bye
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 20:43:06
+3: fm KD0J-10 to AC7BR-4 ctl I07^ pid=CF(NET/ROM) len 20 20:43:07
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         disc: ur ckt 01/85
+3: fm AC7BR-4 to KD0J-10 ctl I00+ pid=CF(NET/ROM) len 20 20:43:08
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         disc ack: ur ckt 02/2A
+3: fm AC7BR-4 to K7BKO ctl DISC+ 20:43:08
+3: fm K7BKO to AC7BR-4 ctl UA- 20:43:08
+3: fm K7BKO to PEAK ctl SABM+ 20:43:21
+3: fm K7BKO to PEAK ctl SABM+ 20:43:32
+3: fm K7BKO to PEAK ctl DISC+ 20:43:49
+3: fm K7BKO to KDOJ-10 ctl SABM+ 20:44:02
+3: fm K7BKO to KDOJ-10 ctl SABM+ 20:44:12
+3: fm PEAK to KD0J-2 ctl RR4- 20:44:21
+3: fm K7BKO to KDOJ-10 ctl SABM+ 20:44:32
+3: fm K7BKO to KDOJ-10 ctl DISC+ 20:44:37
+3: fm K7BKO to KDOJ ctl SABM+ 20:44:51
+3: fm K7BKO to KDOJ ctl SABM+ 20:45:01
+3: fm K7BKO to KDOJ ctl DISC+ 20:45:02
+3: fm K7BKO to PEAK ctl SABM+ 20:45:10
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:45:12
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:45:13
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:45:18
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:45:18
+3: fm K7BKO to PEAK ctl SABM+ 20:45:20
+3: fm KD6OAT-7 to NODES ctl UI^ pid=CF(NET/ROM) len 7 20:45:32
+NET/ROM Routing: SLCOAT
+3: fm K7BKO to PEAK ctl SABM+ 20:45:40
+3: fm W0HU-5 to AC7BR-4 ctl RR5+ 20:45:45
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 20:45:45
+3: fm K7BKO to PEAK ctl DISC+ 20:45:56
+3: fm K7BKO to AC7BR-4 ctl SABM+ 20:46:04
+3: fm AC7BR-4 to K7BKO ctl UA- 20:46:05
+3: fm K7BKO to AC7BR-4 ctl I00^ pid=F0(Text) len 7 20:46:11
+c peak
+3: fm AC7BR-4 to KD0J-10 ctl I01+ pid=CF(NET/ROM) len 37 20:46:13
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         conn rqst: my ckt 01/87 wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm AC7BR-4 to K7BKO ctl RR1v 20:46:13
+3: fm AC7BR-4 to KD0J-10 ctl RR0+ 20:46:17
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 20:46:18
+3: fm AC7BR-4 to KD0J-10 ctl I01+ pid=CF(NET/ROM) len 37 20:46:19
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         conn rqst: my ckt 01/87 wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 20:46:20
+3: fm KD0J-10 to AC7BR-4 ctl I20^ pid=CF(NET/ROM) len 21 20:46:20
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         conn ack: ur ckt 01/87 my ckt 02/2C wnd 4
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 39 20:46:21
+RIV:AC7BR-4} Connected to PEAK:KD0J-10
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:46:21
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 20:46:21
+3: fm AC7BR-4 to K7BKO ctl RR1+ 20:46:25
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:46:25
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 3 20:46:51
+mh
+3: fm AC7BR-4 to KD0J-10 ctl I12+ pid=CF(NET/ROM) len 23 20:46:52
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 0 rxseq 0
+mh
+3: fm AC7BR-4 to K7BKO ctl RR2v 20:46:52
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 20:46:55
+3: fm KD0J-10 to AC7BR-4 ctl I32^ pid=CF(NET/ROM) len 254 20:47:00
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 1 rxseq 1
+WVC-1/1    05/29/18 20:28:40
+K2MJM/1      05/29/18 20:28:41
+KD6OAT-1/1   05/29/18 20:37:32
+UJHBBS/1     05/29/18 20:42:36
+KG7UJH-2/1   05/29/18 20:47:56
+K7BKO/1      05/29/18 20:48:52
+K2WVC-6/1    05/29/18 20:48:53
+KE7BME-3/2   05/29/
+3: fm AC7BR-4 to K7BKO ctl RR2+ 20:47:02
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:47:02
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 20:47:02
+3: fm AC7BR-4 to K7BKO ctl I21^ pid=F0(Text) len 234 20:47:05
+PEAK:KD0J-10} 
+SMTN/1       05/28/18 20:34:23
+K2AGE/1      05/29/18 10:52:04
+MYCALL/1     05/29/18 13:32:01
+KG7UJH-15/1  05/29/18 17:20:38
+K2WVC/1      05/29/18 19:09:39
+KD0J-13/2    05/29/18 19:41:08
+KD6OAT-7/1   05/29/18 19:56:37
+K2
+3: fm AC7BR-4 to K7BKO ctl I22+ pid=F0(Text) len 234 20:47:07
+WVC-1/1    05/29/18 20:28:40
+K2MJM/1      05/29/18 20:28:41
+KD6OAT-1/1   05/29/18 20:37:32
+UJHBBS/1     05/29/18 20:42:36
+KG7UJH-2/1   05/29/18 20:47:56
+K7BKO/1      05/29/18 20:48:52
+K2WVC-6/1    05/29/18 20:48:53
+KE7BME-3/2   05/29/
+3: fm K7BKO to AC7BR-4 ctl RR3- 20:47:07
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 20:47:08
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 20:47:09
+3: fm AC7BR-4 to KD0J-10 ctl I33+ pid=CF(NET/ROM) len 21 20:47:11
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2C rxseq 2
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 20:47:12
+3: fm KD0J-10 to AC7BR-4 ctl RR4+ 20:47:13
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:47:14
+3: fm AC7BR-4 to KD0J-10 ctl RR3- 20:47:14
+3: fm KD0J-10 to AC7BR-4 ctl I43^ pid=CF(NET/ROM) len 156 20:47:16
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 2 rxseq 1
+18 20:49:06
+KD0J-2/1     05/29/18 20:50:20
+KI7L-7/1     05/29/18 20:51:18
+W0HU-5/1     05/29/18 20:51:45
+AC7BR-4/1    05/29/18 20:52:25
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 136 20:47:18
+18 20:49:06
+KD0J-2/1     05/29/18 20:50:20
+KI7L-7/1     05/29/18 20:51:18
+W0HU-5/1     05/29/18 20:51:45
+AC7BR-4/1    05/29/18 20:52:25
+3: fm K7BKO to AC7BR-4 ctl RR4- 20:47:18
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 20:47:18
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:47:18
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:47:21
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:47:21
+3: fm AC7BR-4 to KD0J-10 ctl I44+ pid=CF(NET/ROM) len 21 20:47:27
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2C rxseq 3
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 20:47:28
+3: fm KD0J-10 to ID ctl UI pid=F0(Text) len 20 20:47:50
+Network Node (PEAK)
+3: fm K7BKO to AC7BR-4 ctl I42^ pid=F0(Text) len 5 20:48:07
+w100
+3: fm AC7BR-4 to KD0J-10 ctl I45+ pid=CF(NET/ROM) len 25 20:48:09
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 1 rxseq 3
+w100
+3: fm AC7BR-4 to K7BKO ctl RR3v 20:48:09
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 20:48:10
+3: fm KD0J-10 to AC7BR-4 ctl I64^ pid=CF(NET/ROM) len 50 20:48:10
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 3 rxseq 2
+PEAK:KD0J-10} INVALID COMMAND
+3: fm AC7BR-4 to K7BKO ctl I34+ pid=F0(Text) len 30 20:48:11
+PEAK:KD0J-10} INVALID COMMAND
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:48:11
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 20:48:11
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:48:20
+3: fm AC7BR-4 to KD0J-10 ctl RR5+ 20:48:25
+3: fm KI7L-7 to AC7BR-4 ctl RR0+ 20:48:28
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 20:48:30
+3: fm AC7BR-4 to KD0J-10 ctl I56+ pid=CF(NET/ROM) len 21 20:48:31
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2C rxseq 4
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 20:48:31
+3: fm AC7BR-4 to KI7L-7 ctl I00+ pid=CF(NET/ROM) len 20 20:48:42
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm KI7L-7 to AC7BR-4 ctl RR1- 20:48:43
+3: fm W0HU-5 to AC7BR-4 ctl RR5+ 20:48:46
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 20:48:47
+3: fm KD0J-10 to NODES ctl UI^ pid=CF(NET/ROM) len 238 20:48:52
+NET/ROM Routing: PEAK  
+              W0HU-6  KATE            W0HU-6     70
+             AC7BR-4  RIV            AC7BR-4     70
+             AC7BR-3  RIVBBS         AC7BR-4     70
+            AC7BR-10  RIVRMS         AC7BR-4     70
+              W0HU-5  SMTN            W0HU-5     70
+            KG7UJH-2  UJHBBS        KG7UJH-2     70
+             K2WVC-6  WVC            K2WVC-6     70
+             K2WVC-1  WVCBBS         K2WVC-6     70
+             K2WVC-2  WVCCHT         K2WVC-6     70
+            K2WVC-10  WVCRMS         K2WVC-6     70
+            KE7BME-3  RACERE        KE7BME-3    110
+3: fm KD0J-10 to NODES ctl UI^ pid=CF(NET/ROM) len 112 20:49:00
+NET/ROM Routing: PEAK  
+              KI7L-7  IMED            KI7L-7     70
+             W7DBA-8  HUNTS         KE7BME-3     86
+            KD6OAT-7  SLCOAT        KD6OAT-7     70
+              KD0J-7  RACE          KE7BME-3     86
+             KD0J-13  ISLAND        KE7BME-3     83
+3: fm PEAK to KD0J-2 ctl RR4- 20:49:22
+3: fm K7BKO to AC7BR-4 ctl I53^ pid=F0(Text) len 8 20:49:28
+chkpt=m
+3: fm AC7BR-4 to KD0J-10 ctl I57+ pid=CF(NET/ROM) len 28 20:49:29
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 2 rxseq 4
+chkpt=m
+3: fm AC7BR-4 to K7BKO ctl RR4v 20:49:29
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 20:49:30
+3: fm KD0J-10 to AC7BR-4 ctl I05^ pid=CF(NET/ROM) len 50 20:49:31
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 4 rxseq 3
+PEAK:KD0J-10} INVALID COMMAND
+3: fm AC7BR-4 to K7BKO ctl I45+ pid=F0(Text) len 30 20:49:32
+PEAK:KD0J-10} INVALID COMMAND
+3: fm K7BKO to AC7BR-4 ctl RR6- 20:49:32
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 20:49:32
+3: fm AC7BR-4 to KD0J-10 ctl I60+ pid=CF(NET/ROM) len 21 20:49:42
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2C rxseq 5
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 20:49:42
+3: fm K7BKO to AC7BR-4 ctl I64^ pid=F0(Text) len 12 20:50:42
+c w100chkpt
+3: fm AC7BR-4 to KD0J-10 ctl I61+ pid=CF(NET/ROM) len 32 20:50:43
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 3 rxseq 5
+c w100chkpt
+3: fm AC7BR-4 to K7BKO ctl RR5v 20:50:43
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 20:50:45
+3: fm KD0J-10 to AC7BR-4 ctl I26^ pid=CF(NET/ROM) len 90 20:50:45
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 5 rxseq 4
+PEAK:KD0J-10} SYNTAX:  C [[port] call|alias [Via digi1[,digi2]] [/S]]
+3: fm AC7BR-4 to K7BKO ctl I56+ pid=F0(Text) len 70 20:50:47
+PEAK:KD0J-10} SYNTAX:  C [[port] call|alias [Via digi1[,digi2]] [/S]]
+3: fm K7BKO to AC7BR-4 ctl RR7- 20:50:47
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 20:50:47
+3: fm K7BKO to AC7BR-4 ctl I75^ pid=F0(Text) len 7 20:50:54
+c w100
+3: fm AC7BR-4 to KD0J-10 ctl I72+ pid=CF(NET/ROM) len 27 20:50:56
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 4 rxseq 6
+c w100
+3: fm AC7BR-4 to K7BKO ctl RR6v 20:50:56
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 20:51:00
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 20:51:02
+3: fm AC7BR-4 to KD0J-10 ctl I72+ pid=CF(NET/ROM) len 27 20:51:03
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 4 rxseq 6
+c w100
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 20:51:06
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:06
+3: fm KD0J-10 to AC7BR-4 ctl I37^ pid=CF(NET/ROM) len 72 20:51:06
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         info: ur ckt 01/87 txseq 6 rxseq 5
+PEAK:KD0J-10} Attempting downlink to W100 on port 1
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 52 20:51:08
+PEAK:KD0J-10} Attempting downlink to W100 on port 1
+3: fm K7BKO to AC7BR-4 ctl RR0- 20:51:08
+3: fm AC7BR-4 to KD0J-10 ctl RR0v 20:51:08
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:13
+3: fm AC7BR-4 to KD0J-10 ctl I03+ pid=CF(NET/ROM) len 21 20:51:17
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info ack: ur ckt 02/2C rxseq 7
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 20:51:18
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:18
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:23
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:29
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:34
+3: fm K7BKO to AC7BR-4 ctl I06^ pid=F0(Text) len 4 20:51:38
+bye
+3: fm AC7BR-4 to KD0J-10 ctl I04+ pid=CF(NET/ROM) len 24 20:51:40
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         info: ur ckt 02/2C txseq 5 rxseq 7
+bye
+3: fm AC7BR-4 to K7BKO ctl RR7v 20:51:40
+3: fm KI7L-7 to AC7BR-4 ctl RR1+ 20:51:43
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:51:43
+3: fm AC7BR-4 to KD0J-10 ctl RR0+ 20:51:44
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 20:51:45
+3: fm K7BKO-15 to W100 ctl SABM+ 20:51:46
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 20:51:46
+3: fm K7BKO-15 to W100 ctl DISC+ 20:51:47
+3: fm KD0J-10 to AC7BR-4 ctl I50^ pid=CF(NET/ROM) len 20 20:51:47
+NET/ROM: KD0J-10->AC7BR-4 ttl 25
+         disc: ur ckt 01/87
+3: fm W0HU-5 to AC7BR-4 ctl RR5+ 20:51:47
+3: fm AC7BR-4 to KD0J-10 ctl I15+ pid=CF(NET/ROM) len 20 20:51:48
+NET/ROM: AC7BR-4->KD0J-10 ttl 25
+         disc ack: ur ckt 02/2C
+3: fm AC7BR-4 to K7BKO ctl DISC+ 20:51:48
+3: fm K7BKO to AC7BR-4 ctl UA- 20:51:48
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 20:51:48
+3: fm AC7BR-4 to KD0J-10 ctl RR1+ 20:51:52
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 20:51:55
+3: fm K7BKO to KD0J-10 ctl SABM+ 20:52:04
+3: fm K7BKO to KD0J-10 ctl SABM+ 20:52:14
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 20:52:17
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:52:23
+3: fm AC7BR-4 to W0HU-5 ctl I05+ pid=CF(NET/ROM) len 20 20:52:23
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm W0HU-5 to AC7BR-4 ctl RR6- 20:52:24
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:52:25
+3: fm K7BKO to KD0J-10 ctl SABM+ 20:52:35
+3: fm K7BKO to KD0J-10 ctl DISC+ 20:52:37
+3: fm W0HU-5 to NODES ctl UI^ pid=CF(NET/ROM) len 112 20:52:49
+NET/ROM Routing: SMTN  
+              KI7L-7  IMED            KI7L-7     10
+              W0HU-6  KATE            W0HU-6     10
+             KD0J-10  PEAK           KD0J-10     10
+            KD6OAT-7  SLCOAT        KD6OAT-7     10
+            KG7UJH-2  UJHBBS        KG7UJH-2     10
+3: fm K7BKO to PEAK ctl SABM+ 20:53:04
+3: fm K7BKO to PEAK ctl SABM+ 20:53:15
+3: fm K7BKO to PEAK ctl SABM+ 20:53:35
+3: fm K7BKO to PEAK ctl SABM+ 20:54:05
+3: fm K7BKO to PEAK ctl DISC+ 20:54:09
+3: fm PEAK to K7BKO ctl DM- 20:54:10
+3: fm PEAK to KD0J-2 ctl RR4- 20:54:22
+3: fm K7BKO to PEAK ctl SABM+ 20:54:44
+3: fm KI7L-7 to AC7BR-4 ctl RR1+ 20:54:45
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:54:46
+3: fm K7BKO to PEAK ctl SABM+ 20:54:54
+3: fm K7BKO to PEAK ctl SABM+ 20:55:14
+3: fm K7BKO to PEAK ctl DISC+ 20:55:21
+3: fm K7BKO to AC7BR-4 ctl SABM+ 20:55:24
+3: fm W0HU-5 to AC7BR-4 ctl RR6+ 20:55:25
+3: fm AC7BR-4 to K2WVC-6 ctl I25+ pid=CF(NET/ROM) len 20 20:55:31
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm K2WVC-6 to AC7BR-4 ctl RR6- 20:55:32
+3: fm K7BKO to AC7BR-4 ctl SABM+ 20:55:34
+3: fm AC7BR-4 to K7BKO ctl UA- 20:55:35
+3: fm K7BKO to AC7BR-4 ctl I00^ pid=F0(Text) len 2 20:55:44
+?
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 70 20:55:46
+RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS MHEARD
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:55:46
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 5 20:55:55
+info
+3: fm AC7BR-4 to K7BKO ctl I21^ pid=F0(Text) len 120 20:55:57
+RIV:AC7BR-4} Welcome to the AC7BR Packet node in Riverton, UT. 
+You may connect to the following:
+AC7BR-3:RIVBBS    Riv
+3: fm AC7BR-4 to K7BKO ctl I22^ pid=F0(Text) len 120 20:55:58
+erton, UT. BBS
+AC7BR-10:RIVRMS   Riverton, UT. Winlink RMS
+Ports:
+Port 3: 145.050 MHz / 1200 Baud
+This node services R
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 120 20:55:59
+iverton and the south end of Salt Lake County.
+Sysop is Brad Rupp, AC7BR.  Send all inquires to bradrupp@gmail.com
+Than
+3: fm K7BKO to AC7BR-4 ctl RR4- 20:55:59
+3: fm AC7BR-4 to K7BKO ctl I24+ pid=F0(Text) len 17 20:56:00
+ks for visiting.
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:56:00
+3: fm K7BKO to AC7BR-4 ctl I52^ pid=F0(Text) len 4 20:56:34
+bye
+3: fm AC7BR-4 to K7BKO ctl DISC+ 20:56:35
+3: fm K7BKO to AC7BR-4 ctl UA- 20:56:35
+3: fm K7BKO to AC7BR-3 ctl SABM+ 20:56:38
+3: fm AC7BR-3 to K7BKO ctl UA- 20:56:39
+3: fm AC7BR-3 to K7BKO ctl I00^ pid=F0(Text) len 128 20:56:40
+[BPQ-6.0.14.7-IHJM$]
+Hello josh. Latest Message is 122, Last listed is 0
+Please enter your Home BBS using the Home command.
+You 
+3: fm AC7BR-3 to K7BKO ctl I01+ pid=F0(Text) len 79 20:56:41
+may also enter your QTH and ZIP/Postcode using qth and zip commands.
+de AC7BR>
+3: fm K7BKO to AC7BR-3 ctl RR2- 20:56:41
+3: fm K7BKO to AC7BR-3 ctl I20^ pid=F0(Text) len 2 20:56:47
+?
+3: fm AC7BR-3 to K7BKO ctl I12^ pid=F0(Text) len 128 20:56:50
+A - Abort Output
+B - Logoff
+CMSPASS Password - Set CMS Password
+D - Flag NTS Message(s) as Delivered - D num
+HOMEBBS - Display o
+3: fm AC7BR-3 to K7BKO ctl I13^ pid=F0(Text) len 128 20:56:51
+r get HomeBBS
+INFO - Display information about this BBS
+I CALL - Lookup CALL in WP Allows *CALL CALL* *CALL* wildcards
+I@ PARAM 
+3: fm AC7BR-3 to K7BKO ctl I14+ pid=F0(Text) len 128 20:56:52
+- Lookup @BBS in WP
+IZ PARAM - Lookup Zip Codes in WP
+IH PARAM - Lookup HA elements in WP - eg USA EU etc
+K - Kill Message(s) - 
+3: fm K7BKO to AC7BR-3 ctl RR5- 20:56:52
+3: fm AC7BR-3 to K7BKO ctl I15^ pid=F0(Text) len 128 20:56:54
+K num, KM (Kill my read messages)
+L - List Message(s) - L = List New, LR = List New (Oldest first)
+                      LM = Li
+3: fm AC7BR-3 to K7BKO ctl I16^ pid=F0(Text) len 128 20:56:55
+st Mine L> Call, L< Call = List to or from
+                      LL num = List Last, L num-num = List Range
+                    
+3: fm AC7BR-3 to K7BKO ctl I17+ pid=F0(Text) len 128 20:56:56
+  LN LY LH LK LF L$ LD - List Message with corresponding Status
+                      LB LP LT - List Mesaage with corresponding
+3: fm K7BKO to AC7BR-3 ctl RR0- 20:56:56
+3: fm AC7BR-3 to K7BKO ctl I10^ pid=F0(Text) len 128 20:56:58
+ Type
+                      LC List TO fields of all active bulletins
+LISTFILES or FILES - List files available for download
+N N
+3: fm AC7BR-3 to K7BKO ctl I11^ pid=F0(Text) len 128 20:56:59
+ame - Set Name
+NODE - Return to Node
+OP n - Set Page Length (Output will pause every n lines)
+PASS Password - Set BBS Password
+P
+3: fm AC7BR-3 to K7BKO ctl I12+ pid=F0(Text) len 128 20:57:00
+OLLRMS - Manage Polling for messages from RMS 
+Q QTH - Set QTH
+R - Read Message(s) - R num, RM (Read new messages to me)
+READ Na
+3: fm K7BKO to AC7BR-3 ctl RR3- 20:57:00
+3: fm AC7BR-3 to K7BKO ctl I13^ pid=F0(Text) len 128 20:57:02
+me - Read File
+S - Send Message - S or SP Send Personal, SB Send Bull, ST Send NTS,
+                   SR Num - Send Reply, SC N
+3: fm AC7BR-3 to K7BKO ctl I14+ pid=F0(Text) len 48 20:57:02
+um - Send Copy
+X - Toggle Expert Mode
+de AC7BR>
+3: fm K7BKO to AC7BR-3 ctl RR5- 20:57:02
+3: fm K7BKO to AC7BR-3 ctl I51^ pid=F0(Text) len 2 20:57:08
+b
+3: fm AC7BR-3 to K7BKO ctl DISC+ 20:57:10
+3: fm K7BKO to AC7BR-3 ctl UA- 20:57:10
+3: fm K7BKO to AC7BR-4 ctl SABM+ 20:57:13
+3: fm AC7BR-4 to K7BKO ctl UA- 20:57:14
+3: fm K7BKO to AC7BR-4 ctl I00^ pid=F0(Text) len 2 20:57:17
+?
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 70 20:57:19
+RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS MHEARD
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:57:19
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 7 20:57:24
+routes
+3: fm AC7BR-4 to K7BKO ctl I21+ pid=F0(Text) len 127 20:57:26
+RIV:AC7BR-4} Routes
+> 3 W0HU-5    192 10 
+> 3 K2WVC-6   192 17 
+> 3 KG7UJH-2  192 2 
+> 3 KD0J-10   192 6 
+> 3 KI7L-7    192 9 
+3: fm K7BKO to AC7BR-4 ctl RR2- 20:57:26
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 20:57:35
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 20:57:36
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 20:57:44
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 20:57:45
+3: fm KI7L-7 to AC7BR-4 ctl RR1+ 20:57:46
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 20:57:47
+3: fm K7BKO to AC7BR-4 ctl I22^ pid=F0(Text) len 6 20:57:53
+nodes
+3: fm AC7BR-4 to K7BKO ctl I32^ pid=F0(Text) len 120 20:57:55
+RIV:AC7BR-4} Nodes
+#ANT:W7JOF-6        #DAV96:K7DAV-9      #LM96:N7OEY-6       ANT:W7JOF-7         
+DAV:K7DAV-7         
+3: fm AC7BR-4 to K7BKO ctl I33^ pid=F0(Text) len 120 20:57:56
+HUNTS:W7DBA-8       IMED:KI7L-7         ISLAND:KD0J-13      
+KATE:W0HU-6         LITMTN:N7OEY-9      PEAK:KD0J-10       
+3: fm AC7BR-4 to K7BKO ctl I34+ pid=F0(Text) len 120 20:57:57
+ RACE:KD0J-7         
+RACERE:KE7BME-3     RIVBBS:AC7BR-3      RIVRMS:AC7BR-10     SLCOAT:KD6OAT-7     
+SMTN:W0HU-5      
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:57:57
+3: fm AC7BR-4 to K7BKO ctl I35+ pid=F0(Text) len 105 20:57:59
+   UJHBBS:KG7UJH-2     WVC:K2WVC-6         WVCBBS:K2WVC-1      
+WVCCHT:K2WVC-2      WVCRMS:K2WVC-10     
+3: fm K7BKO to AC7BR-4 ctl RR6- 20:57:59
+3: fm W0HU-5 to AC7BR-4 ctl RR6+ 20:58:26
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 20:58:26
+3: fm K7BKO to AC7BR-4 ctl I63^ pid=F0(Text) len 13 20:58:34
+connect race
+3: fm AC7BR-4 to KD0J-10 ctl I16+ pid=CF(NET/ROM) len 37 20:58:35
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         conn rqst: my ckt 01/8C wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm AC7BR-4 to K7BKO ctl RR4v 20:58:35
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 20:58:36
+3: fm KD0J-10 to AC7BR-4 ctl I71^ pid=CF(NET/ROM) len 22 20:58:43
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         conn ack: ur ckt 01/8C my ckt 02/39 wnd 4
+3: fm AC7BR-4 to K7BKO ctl I46+ pid=F0(Text) len 38 20:58:44
+RIV:AC7BR-4} Connected to RACE:KD0J-7
+3: fm K7BKO to AC7BR-4 ctl RR7- 20:58:44
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 20:58:44
+3: fm AC7BR-4 to K7BKO ctl I47+ pid=F0(Text) len 123 20:58:47
+Connected to Wasatch 100 Database Ver 2017, Compiled 
+Sysop Status Messages
+Welcome to the 2018 Wasatch 100 test system 
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 20:58:47
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 20:58:47
+3: fm AC7BR-4 to KD0J-10 ctl I37+ pid=CF(NET/ROM) len 21 20:58:57
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 1
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 20:58:58
+3: fm K7BKO to AC7BR-4 ctl I04^ pid=F0(Text) len 2 20:58:59
+?
+3: fm AC7BR-4 to KD0J-10 ctl I30+ pid=CF(NET/ROM) len 22 20:59:00
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 0 rxseq 1
+?
+3: fm AC7BR-4 to K7BKO ctl RR5v 20:59:01
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 20:59:02
+3: fm KD0J-10 to AC7BR-4 ctl I13^ pid=CF(NET/ROM) len 256 20:59:05
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 1 rxseq 1
+For a description of system changes this year: CHANGES
+Before entering data, you must input your Checkpoint ID Letter
+  Example: CHKPT=% where % is your Checkpoint ID Letter
+To get a list of Checkpoint letter designators:  CHKPT 
+Syntax
+3: fm AC7BR-4 to K7BKO ctl I50+ pid=F0(Text) len 236 20:59:08
+For a description of system changes this year: CHANGES
+Before entering data, you must input your Checkpoint ID Letter
+  Example: CHKPT=% where % is your Checkpoint ID Letter
+To get a list of Checkpoint letter designators:  CHKPT 
+Syntax
+3: fm K7BKO to AC7BR-4 ctl RR1- 20:59:08
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 20:59:08
+3: fm AC7BR-4 to K7BKO ctl I51+ pid=F0(Text) len 236 20:59:13
+ for input: Runner#,in time,outtime
+  Example: 102,0100,0105,  Separator is comma or period
+  One time field, in or out, is required
+  Multiple records may be entered by separating them with a dash (-)
+  Example: 103,0100,0110,-104,0115
+3: fm K7BKO to AC7BR-4 ctl RR2- 20:59:13
+3: fm K7BKO to AC7BR-4 ctl I25^ pid=F0(Text) len 8 20:59:13
+changes
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 20:59:13
+3: fm AC7BR-4 to KD0J-10 ctl I51+ pid=CF(NET/ROM) len 28 20:59:17
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 1 rxseq 3
+changes
+3: fm AC7BR-4 to K7BKO ctl RR6v 20:59:17
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 20:59:18
+3: fm PEAK to KD0J-2 ctl RR4- 20:59:21
+3: fm KD0J-10 to AC7BR-4 ctl RR2+ 20:59:21
+3: fm AC7BR-4 to KD0J-10 ctl RR5- 20:59:22
+3: fm KD0J-10 to AC7BR-4 ctl I25^ pid=CF(NET/ROM) len 256 20:59:25
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 3 rxseq 1
+,0120-105,0125
+  Trailing comma or period on record is optional
+  You must wait for system response before sending more data.
+Search request: ### or # is Runner Number, % is checkpoint letter
+  T is local time in four digits, D is durat
+3: fm AC7BR-4 to K7BKO ctl I62+ pid=F0(Text) len 236 20:59:28
+,0120-105,0125
+  Trailing comma or period on record is optional
+  You must wait for system response before sending more data.
+Search request: ### or # is Runner Number, % is checkpoint letter
+  T is local time in four digits, D is durat
+3: fm K7BKO to AC7BR-4 ctl RR3- 20:59:28
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 20:59:28
+3: fm KD0J-10 to AC7BR-4 ctl I26^ pid=CF(NET/ROM) len 256 20:59:31
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 4 rxseq 1
+ion in hours
+  N is two digit number, [] indicates optional entry.
+  If logged on at checkpoint, % is optional for /P, /I, /A, /H 
+  Runner: /R# (Multiple request /R#-#-#, numbers separated by dash)
+  All reported times for one runner: 
+3: fm PEAK to KD0J-2 ctl I43^ pid=F0(Text) len 27 20:59:32
+2059  211 Inbound Runners
+>
+3: fm AC7BR-4 to K7BKO ctl I63+ pid=F0(Text) len 236 20:59:34
+ion in hours
+  N is two digit number, [] indicates optional entry.
+  If logged on at checkpoint, % is optional for /P, /I, /A, /H 
+  Runner: /R# (Multiple request /R#-#-#, numbers separated by dash)
+  All reported times for one runner: 
+3: fm K7BKO to AC7BR-4 ctl RR4- 20:59:34
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 20:59:34
+3: fm AC7BR-4 to K7BKO ctl I64+ pid=F0(Text) len 236 20:59:39
+/R#A
+  Checkpoint List: /C[O],%,T,[D]   Current DNF List: /D or /DT
+  List of Runners Still Out: /P[D][,%]   Single Record: /L###%
+  Runner number from last name: /N,name or /N,partial*
+  Next runners inbound to checkpoint: /I[,%][,N]
+ 
+3: fm K7BKO to AC7BR-4 ctl RR5- 20:59:39
+3: fm AC7BR-4 to KD0J-10 ctl RR0v 20:59:39
+3: fm PEAK to KD0J-2 ctl RR4+ 20:59:42
+3: fm AC7BR-4 to KD0J-10 ctl I02+ pid=CF(NET/ROM) len 21 20:59:47
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 6
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 20:59:48
+3: fm KD0J-10 to AC7BR-4 ctl RR3+ 20:59:48
+3: fm AC7BR-4 to KD0J-10 ctl RR0- 20:59:49
+3: fm KD0J-10 to AC7BR-4 ctl I30^ pid=CF(NET/ROM) len 256 20:59:51
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 6 rxseq 2
+ Checkpoint Audit for missing data: /A[,%]
+  Runners in but not out: /H[,%]
+  Final Check before Closing Checkpoint: /F[,%]
+Listing of Leading Runners: LEADS
+Enter Temperature at Ckpt: TEMP=xx, Read Temps: TEMP 
+Delete record : DELETE #
+3: fm AC7BR-4 to K7BKO ctl I65+ pid=F0(Text) len 236 20:59:54
+ Checkpoint Audit for missing data: /A[,%]
+  Runners in but not out: /H[,%]
+  Final Check before Closing Checkpoint: /F[,%]
+Listing of Leading Runners: LEADS
+Enter Temperature at Ckpt: TEMP=xx, Read Temps: TEMP 
+Delete record : DELETE #
+3: fm K7BKO to AC7BR-4 ctl RR6- 20:59:54
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 20:59:54
+3: fm KD0J-10 to AC7BR-4 ctl I31^ pid=CF(NET/ROM) len 256 20:59:58
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 7 rxseq 2
+##
+System Status:  STATUS  
+List of Runners: NUMBERLIST   Current Stations: U or USERS
+Send Message: T or TELL CALLSIGN|*|SYSOP|% [message]   Logoff: B or BYE
+DNF Entry: DNF,###,dnf time,code,where,how
+For DNF entry details and codes, s
+3: fm AC7BR-4 to K7BKO ctl I66+ pid=F0(Text) len 236 21:00:01
+##
+System Status:  STATUS  
+List of Runners: NUMBERLIST   Current Stations: U or USERS
+Send Message: T or TELL CALLSIGN|*|SYSOP|% [message]   Logoff: B or BYE
+DNF Entry: DNF,###,dnf time,code,where,how
+For DNF entry details and codes, s
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:00:01
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 21:00:01
+3: fm KD0J-10 to AC7BR-4 ctl I32^ pid=CF(NET/ROM) len 104 21:00:03
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 8 rxseq 2
+ee the DNF form.
+DNFOK to confirm when prompted, any other transmission voids dnf
+>
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 84 21:00:04
+ee the DNF form.
+DNFOK to confirm when prompted, any other transmission voids dnf
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:00:04
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 21:00:04
+3: fm KD0J-10 to AC7BR-4 ctl I33^ pid=CF(NET/ROM) len 256 21:00:08
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 9 rxseq 2
+Changes in this program since the 2014 race:
+There are changes in the error messages and the responses 
+to the /A and /F, audit commands to save bandwidth and give more info
+Please remember to do multiple entries on one line when you ca
+3: fm AC7BR-4 to KD0J-10 ctl I43+ pid=CF(NET/ROM) len 21 21:00:09
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 10
+3: fm AC7BR-4 to K7BKO ctl I60+ pid=F0(Text) len 236 21:00:11
+Changes in this program since the 2014 race:
+There are changes in the error messages and the responses 
+to the /A and /F, audit commands to save bandwidth and give more info
+Please remember to do multiple entries on one line when you ca
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:00:11
+3: fm AC7BR-4 to K7BKO ctl I61+ pid=F0(Text) len 33 21:00:13
+n
+as that also saves bandwidth
+>
+3: fm K7BKO to AC7BR-4 ctl RR2- 21:00:13
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 21:00:13
+3: fm AC7BR-4 to KD0J-10 ctl I54+ pid=CF(NET/ROM) len 21 21:00:23
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 11
+3: fm AC7BR-4 to KD0J-10 ctl RR5+ 21:00:27
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:00:28
+3: fm K7BKO to AC7BR-4 ctl I26^ pid=F0(Text) len 8 21:00:29
+chkpt=m
+3: fm AC7BR-4 to KD0J-10 ctl I54+ pid=CF(NET/ROM) len 21 21:00:29
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 11
+3: fm AC7BR-4 to K7BKO ctl RR7v 21:00:32
+3: fm AC7BR-4 to KD0J-10 ctl RR5+ 21:00:33
+3: fm AC7BR-4 to KD0J-10 ctl RR5+ 21:00:38
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:00:40
+3: fm AC7BR-4 to KD0J-10 ctl I55+ pid=CF(NET/ROM) len 28 21:00:41
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 2 rxseq 11
+chkpt=m
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:00:42
+3: fm KD0J-10 to AC7BR-4 ctl I65^ pid=CF(NET/ROM) len 57 21:00:44
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 11 rxseq 3
+K7BKO logged in at  Pole Line Pass
+>
+3: fm AC7BR-4 to K7BKO ctl I72+ pid=F0(Text) len 37 21:00:45
+K7BKO logged in at  Pole Line Pass
+>
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:00:45
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 21:00:46
+3: fm KI7L-7 to AC7BR-4 ctl RR1+ 21:00:47
+3: fm AC7BR-4 to KD0J-10 ctl I66+ pid=CF(NET/ROM) len 21 21:00:55
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 12
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:00:56
+3: fm K7BKO to AC7BR-4 ctl I37^ pid=F0(Text) len 3 21:01:23
+/i
+3: fm AC7BR-4 to KD0J-10 ctl I67+ pid=CF(NET/ROM) len 23 21:01:24
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 3 rxseq 12
+/i
+3: fm AC7BR-4 to K7BKO ctl RR0v 21:01:25
+3: fm AC7BR-4 to KI7L-7 ctl I01+ pid=CF(NET/ROM) len 20 21:01:25
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm W0HU-5 to AC7BR-4 ctl RR6+ 21:01:27
+3: fm KD0J-10 to AC7BR-4 ctl I06^ pid=CF(NET/ROM) len 82 21:01:28
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 12 rxseq 4
+Next 10 runners inbound to  Pole Line Pass as of 2101 hours
+>
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:01:30
+3: fm AC7BR-4 to KD0J-10 ctl RR6+ 21:01:30
+3: fm AC7BR-4 to K7BKO ctl I03+ pid=F0(Text) len 62 21:01:30
+Next 10 runners inbound to  Pole Line Pass as of 2101 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:01:30
+3: fm AC7BR-4 to KI7L-7 ctl RR0+ 21:01:30
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 21:01:32
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 21:01:33
+3: fm AC7BR-4 to K7BKO ctl RR0+ 21:01:33
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:01:33
+3: fm AC7BR-4 to KI7L-7 ctl RR0+ 21:01:35
+3: fm AC7BR-4 to KI7L-7 ctl I01+ pid=CF(NET/ROM) len 20 21:01:36
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm KI7L-7 to AC7BR-4 ctl RR2- 21:01:37
+3: fm AC7BR-4 to KD0J-10 ctl I70+ pid=CF(NET/ROM) len 21 21:01:38
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 13
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:01:40
+3: fm K7BKO to AC7BR-4 ctl I40^ pid=F0(Text) len 6 21:02:13
+leads
+3: fm AC7BR-4 to KD0J-10 ctl I71+ pid=CF(NET/ROM) len 26 21:02:15
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 4 rxseq 13
+leads
+3: fm AC7BR-4 to K7BKO ctl RR1v 21:02:15
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 21:02:19
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:02:20
+3: fm AC7BR-4 to KD0J-10 ctl I71+ pid=CF(NET/ROM) len 26 21:02:21
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 4 rxseq 13
+leads
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:02:22
+3: fm KD0J-10 to AC7BR-4 ctl I27^ pid=CF(NET/ROM) len 256 21:02:26
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 13 rxseq 5
+Leader list as of 2102 hours
+1 72 Trevor Fuchs out  Upper Big Water 1555 hours
+2 54 Nicholas Gaitan out  Upper Big Water 1608 hours
+3 171 Jesse Rich out  Upper Big Water 1616 hours
+4 252 Cody Draper out  Upper Big Water 1618 hours
+5 274
+3: fm AC7BR-4 to K7BKO ctl I14+ pid=F0(Text) len 236 21:02:29
+Leader list as of 2102 hours
+1 72 Trevor Fuchs out  Upper Big Water 1555 hours
+2 54 Nicholas Gaitan out  Upper Big Water 1608 hours
+3 171 Jesse Rich out  Upper Big Water 1616 hours
+4 252 Cody Draper out  Upper Big Water 1618 hours
+5 274
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:02:29
+3: fm AC7BR-4 to KD0J-10 ctl RR0v 21:02:29
+3: fm KD0J-10 to AC7BR-4 ctl I20^ pid=CF(NET/ROM) len 256 21:02:32
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 14 rxseq 5
+ Evan Reimondo out  Upper Big Water 1636 hours
+6 88 Joseph Taylor out  Upper Big Water 1643 hours
+7 114 Scott Hollister out  Upper Big Water 1648 hours
+8 279 Ian Seabury in  Upper Big Water 1608 hours
+9 150 Brian Harward out  Lamb's Can
+3: fm AC7BR-4 to K7BKO ctl I15+ pid=F0(Text) len 236 21:02:35
+ Evan Reimondo out  Upper Big Water 1636 hours
+6 88 Joseph Taylor out  Upper Big Water 1643 hours
+7 114 Scott Hollister out  Upper Big Water 1648 hours
+8 279 Ian Seabury in  Upper Big Water 1608 hours
+9 150 Brian Harward out  Lamb's Can
+3: fm K7BKO to AC7BR-4 ctl RR6- 21:02:35
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 21:02:35
+3: fm AC7BR-4 to KD0J-10 ctl I12+ pid=CF(NET/ROM) len 21 21:02:42
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 15
+3: fm KD0J-10 to AC7BR-4 ctl RR2+ 21:02:43
+3: fm AC7BR-4 to KD0J-10 ctl RR1- 21:02:43
+3: fm KD0J-10 to AC7BR-4 ctl I21^ pid=CF(NET/ROM) len 256 21:02:47
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 15 rxseq 5
+yon 1507 hours
+10 27 Tim Briley out  Lamb's Canyon 1513 hours
+Female Leaders
+1 337 Luzia Buehler out  Lamb's Canyon 1540 hours
+2 306 Jennilyn Eaton out  Lamb's Canyon 1627 hours
+3 74 Rebekah Allen Johnson out  Lamb's Canyon 1632 hours
+4
+3: fm AC7BR-4 to K7BKO ctl I16+ pid=F0(Text) len 236 21:02:49
+yon 1507 hours
+10 27 Tim Briley out  Lamb's Canyon 1513 hours
+Female Leaders
+1 337 Luzia Buehler out  Lamb's Canyon 1540 hours
+2 306 Jennilyn Eaton out  Lamb's Canyon 1627 hours
+3 74 Rebekah Allen Johnson out  Lamb's Canyon 1632 hours
+4
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:02:49
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 21:02:49
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 21:02:52
+3: fm AC7BR-4 to KD0J-10 ctl RR2+ 21:02:53
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 21:02:53
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 21:02:53
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 21:02:54
+3: fm KD0J-10 to AC7BR-4 ctl RR2+ 21:02:57
+3: fm AC7BR-4 to KD0J-10 ctl RR2+ 21:02:57
+3: fm AC7BR-4 to KD0J-10 ctl RR2- 21:02:58
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:02:59
+3: fm KD0J-10 to AC7BR-4 ctl I22^ pid=CF(NET/ROM) len 124 21:03:00
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 16 rxseq 5
+ 333 Sarah McCloskey out  Lamb's Canyon 1637 hours
+5 262 Alison Memmott out  Lamb's Canyon 1644 hours
+>
+3: fm AC7BR-4 to KD0J-10 ctl I22^ pid=CF(NET/ROM) len 21 21:03:01
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 15
+3: fm AC7BR-4 to KD0J-10 ctl I23+ pid=CF(NET/ROM) len 21 21:03:01
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 16
+3: fm AC7BR-4 to K7BKO ctl I17+ pid=F0(Text) len 104 21:03:02
+ 333 Sarah McCloskey out  Lamb's Canyon 1637 hours
+5 262 Alison Memmott out  Lamb's Canyon 1644 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:03:02
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 21:03:02
+3: fm AC7BR-4 to KD0J-10 ctl RR3+ 21:03:05
+3: fm AC7BR-4 to KD0J-10 ctl I34+ pid=CF(NET/ROM) len 21 21:03:11
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 17
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:03:12
+3: fm K7BKO to AC7BR-4 ctl I01^ pid=F0(Text) len 9 21:03:49
+333,2103
+3: fm AC7BR-4 to KD0J-10 ctl I35+ pid=CF(NET/ROM) len 29 21:03:50
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 5 rxseq 17
+333,2103
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:03:52
+3: fm KD0J-10 to AC7BR-4 ctl I63^ pid=CF(NET/ROM) len 43 21:03:54
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 17 rxseq 6
+#333,   OK @ 2103MDT
+>
+3: fm AC7BR-4 to K7BKO ctl I20+ pid=F0(Text) len 23 21:03:55
+#333,   OK @ 2103MDT
+>
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:03:55
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 21:03:55
+3: fm AC7BR-4 to KD0J-10 ctl I46+ pid=CF(NET/ROM) len 21 21:04:05
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 18
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:04:06
+3: fm K7BKO to AC7BR-4 ctl I12^ pid=F0(Text) len 3 21:04:10
+/h
+3: fm AC7BR-4 to KD0J-10 ctl I47+ pid=CF(NET/ROM) len 23 21:04:12
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 6 rxseq 18
+/h
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 21:04:12
+3: fm KD0J-10 to AC7BR-4 ctl I04^ pid=CF(NET/ROM) len 102 21:04:16
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 18 rxseq 7
+ Pole Line Pass Runners In and NOT Out as of 2104
+# 333 IN:2103
+Total runners:1
+>
+3: fm AC7BR-4 to K7BKO ctl I31+ pid=F0(Text) len 82 21:04:17
+ Pole Line Pass Runners In and NOT Out as of 2104
+# 333 IN:2103
+Total runners:1
+>
+3: fm K7BKO to AC7BR-4 ctl RR2- 21:04:17
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 21:04:17
+3: fm AC7BR-4 to KD0J-10 ctl I50+ pid=CF(NET/ROM) len 21 21:04:26
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 19
+3: fm K7BKO to AC7BR-4 ctl I23^ pid=F0(Text) len 3 21:04:26
+/i
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:04:27
+3: fm AC7BR-4 to KD0J-10 ctl I51+ pid=CF(NET/ROM) len 23 21:04:28
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 7 rxseq 19
+/i
+3: fm AC7BR-4 to K7BKO ctl RR4v 21:04:28
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:04:29
+3: fm W0HU-5 to AC7BR-4 ctl RR6+ 21:04:30
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:04:31
+3: fm KD0J-10 to AC7BR-4 ctl I25^ pid=CF(NET/ROM) len 82 21:04:33
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 19 rxseq 8
+Next 10 runners inbound to  Pole Line Pass as of 2104 hours
+>
+3: fm AC7BR-4 to K7BKO ctl I42+ pid=F0(Text) len 62 21:04:34
+Next 10 runners inbound to  Pole Line Pass as of 2104 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:04:34
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 21:04:34
+3: fm K7BKO to AC7BR-4 ctl I34^ pid=F0(Text) len 3 21:04:37
+/p
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:04:37
+3: fm PEAK to KD0J-2 ctl RR4- 21:04:41
+3: fm AC7BR-4 to KD0J-10 ctl I62+ pid=CF(NET/ROM) len 21 21:04:43
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 20
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:04:44
+3: fm K7BKO to AC7BR-4 ctl RR3+ 21:04:44
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:04:52
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:04:52
+3: fm K7BKO to AC7BR-4 ctl I35+ pid=F0(Text) len 5 21:04:56
+temp
+3: fm AC7BR-4 to K7BKO ctl REJ4- 21:04:57
+3: fm K7BKO to AC7BR-4 ctl I34^ pid=F0(Text) len 3 21:04:57
+/p
+3: fm K7BKO to AC7BR-4 ctl I35+ pid=F0(Text) len 5 21:04:57
+temp
+3: fm AC7BR-4 to KD0J-10 ctl I63+ pid=CF(NET/ROM) len 23 21:04:59
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 8 rxseq 20
+/p
+3: fm AC7BR-4 to K7BKO ctl RR6- 21:04:59
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:05:00
+3: fm AC7BR-4 to KD0J-10 ctl I64+ pid=CF(NET/ROM) len 25 21:05:01
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 9 rxseq 20
+temp
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:05:02
+3: fm KD0J-10 to AC7BR-4 ctl I56^ pid=CF(NET/ROM) len 55 21:05:03
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 20 rxseq 9
+Checkpoint M Runners Pending 295
+>
+3: fm AC7BR-4 to K7BKO ctl I63+ pid=F0(Text) len 35 21:05:04
+Checkpoint M Runners Pending 295
+>
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:05:04
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 21:05:04
+3: fm AC7BR-4 to W0HU-5 ctl I06+ pid=CF(NET/ROM) len 20 21:05:06
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm AC7BR-4 to K7BKO ctl I64+ pid=F0(Text) len 24 21:05:08
+Reported Temperatures
+>
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:05:08
+3: fm AC7BR-4 to W0HU-5 ctl RR0+ 21:05:10
+3: fm W0HU-5 to AC7BR-4 ctl RR7- 21:05:11
+3: fm AC7BR-4 to K7BKO ctl RR6+ 21:05:12
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:05:12
+3: fm AC7BR-4 to KD0J-10 ctl I05+ pid=CF(NET/ROM) len 21 21:05:17
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 22
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:05:18
+3: fm K7BKO to AC7BR-4 ctl I56^ pid=F0(Text) len 8 21:05:25
+temp=62
+3: fm AC7BR-4 to KD0J-10 ctl I06+ pid=CF(NET/ROM) len 28 21:05:26
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 10 rxseq 22
+temp=62
+3: fm AC7BR-4 to K7BKO ctl RR7v 21:05:27
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:05:28
+3: fm KD0J-10 to AC7BR-4 ctl I70^ pid=CF(NET/ROM) len 63 21:05:30
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 22 rxseq 11
+ Pole Line Pass Temp reported 62 at 2105
+>
+3: fm AC7BR-4 to K7BKO ctl RR7+ 21:05:35
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:05:35
+3: fm AC7BR-4 to K7BKO ctl I75+ pid=F0(Text) len 43 21:05:37
+ Pole Line Pass Temp reported 62 at 2105
+>
+3: fm K7BKO to AC7BR-4 ctl RR6- 21:05:37
+3: fm AC7BR-4 to KD0J-10 ctl I17+ pid=CF(NET/ROM) len 21 21:05:40
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 23
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 21:05:41
+3: fm K7BKO to AC7BR-4 ctl I67^ pid=F0(Text) len 5 21:05:48
+temp
+3: fm AC7BR-4 to KD0J-10 ctl I10+ pid=CF(NET/ROM) len 25 21:05:49
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 11 rxseq 23
+temp
+3: fm AC7BR-4 to K7BKO ctl RR0v 21:05:50
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:05:50
+3: fm KD0J-10 to AC7BR-4 ctl I11^ pid=CF(NET/ROM) len 80 21:05:53
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 23 rxseq 12
+Reported Temperatures
+ Pole Line Pass  Temp. = 62 at 2105
+>
+3: fm AC7BR-4 to K7BKO ctl I06+ pid=F0(Text) len 60 21:05:54
+Reported Temperatures
+ Pole Line Pass  Temp. = 62 at 2105
+>
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:05:54
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 21:05:54
+3: fm AC7BR-4 to KD0J-10 ctl I21+ pid=CF(NET/ROM) len 21 21:06:03
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 24
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:06:04
+3: fm KG7UJH-2 to NODES ctl UI^ pid=CF(NET/ROM) len 49 21:06:37
+NET/ROM Routing: UJHBBS
+            KD6OAT-7  SLCOAT          W0HU-5     10
+              W0HU-5  SMTN            W0HU-5      8
+3: fm UJHBBS to ID ctl UI^ pid=F0(Text) len 64 21:06:38
+AX25: KG7UJH-1 NetRom: UJHBBS:Jnos Packet BBS/Digipeater (Linux)
+3: fm PEAK to KD0J-2 ctl RR4- 21:06:42
+3: fm PEAK to KD0J-2 ctl RR5- 21:06:44
+3: fm PEAK to KD0J-2 ctl I54^ pid=F0(Text) len 16 21:06:46
+Disconnecting
+>
+3: fm PEAK to KD0J-2 ctl DISC+ 21:06:52
+3: fm K7BKO to AC7BR-4 ctl I70^ pid=F0(Text) len 6 21:07:51
+chkpt
+3: fm AC7BR-4 to KD0J-10 ctl I22+ pid=CF(NET/ROM) len 26 21:07:53
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 12 rxseq 24
+chkpt
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:07:54
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:07:54
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:07:55
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 21:07:55
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 21:07:56
+3: fm K7BKO to AC7BR-4 ctl RR7+ 21:07:58
+3: fm AC7BR-4 to K7BKO ctl I17+ pid=F0(Text) len 236 21:08:02
+Checkpoint List:
+ Start = A
+ Bountiful "B" = B
+ Sessions Lift Off = C
+ Swallow Rocks = D
+ Big Mountain = E
+ Alexander Ridge = F
+ Lamb's Canyon = G
+ Upper Big Water = H
+ Desolation Lake = I
+ Scott's Peak = J
+ Brighton Lodge = K
+ Ant Knol
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:08:02
+3: fm AC7BR-4 to K7BKO ctl RR1- 21:08:02
+3: fm KD0J-10 to AC7BR-4 ctl I33^ pid=CF(NET/ROM) len 134 21:08:04
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 25 rxseq 13
+ls = L
+ Pole Line Pass = M
+ Rock Springs = N
+ Pot Hollow = O
+ Staton = P
+ Decker Canyon = Q
+ Soldier Hollow = R
+>
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:08:05
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 114 21:08:06
+ls = L
+ Pole Line Pass = M
+ Rock Springs = N
+ Pot Hollow = O
+ Staton = P
+ Decker Canyon = Q
+ Soldier Hollow = R
+>
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:08:06
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 21:08:06
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 21:08:08
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 21:08:10
+3: fm W0HU-5 to AC7BR-4 ctl RR7+ 21:08:11
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:08:11
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:08:12
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:08:13
+3: fm AC7BR-4 to K2WVC-6 ctl I26+ pid=CF(NET/ROM) len 20 21:08:13
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm AC7BR-4 to KD0J-10 ctl I43+ pid=CF(NET/ROM) len 21 21:08:15
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 26
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:08:15
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 8 21:08:35
+chkpt=i
+3: fm AC7BR-4 to KD0J-10 ctl I44+ pid=CF(NET/ROM) len 28 21:08:37
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 13 rxseq 26
+chkpt=i
+3: fm AC7BR-4 to K7BKO ctl RR2v 21:08:37
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:08:37
+3: fm KD0J-10 to AC7BR-4 ctl I54^ pid=CF(NET/ROM) len 58 21:08:40
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 26 rxseq 14
+K7BKO logged in at  Desolation Lake
+>
+3: fm AC7BR-4 to K7BKO ctl I21+ pid=F0(Text) len 38 21:08:41
+K7BKO logged in at  Desolation Lake
+>
+3: fm K7BKO to AC7BR-4 ctl RR2- 21:08:41
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 21:08:41
+3: fm K7BKO to AC7BR-4 ctl I22^ pid=F0(Text) len 3 21:08:47
+/i
+3: fm AC7BR-4 to KD0J-10 ctl I55+ pid=CF(NET/ROM) len 23 21:08:49
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 14 rxseq 27
+/i
+3: fm AC7BR-4 to K7BKO ctl RR3v 21:08:49
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:08:50
+3: fm KD0J-10 to AC7BR-4 ctl I65^ pid=CF(NET/ROM) len 256 21:08:54
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 27 rxseq 15
+Next 10 runners inbound to  Desolation Lake as of 2108 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+2
+3: fm AC7BR-4 to K7BKO ctl I32+ pid=F0(Text) len 236 21:08:56
+Next 10 runners inbound to  Desolation Lake as of 2108 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+2
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:08:56
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 21:08:57
+3: fm KD0J-10 to AC7BR-4 ctl RR6+ 21:09:04
+3: fm AC7BR-4 to KD0J-10 ctl RR6- 21:09:04
+3: fm AC7BR-4 to KD0J-10 ctl I66+ pid=CF(NET/ROM) len 21 21:09:05
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 28
+3: fm KD0J-10 to AC7BR-4 ctl I66^ pid=CF(NET/ROM) len 157 21:09:06
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 28 rxseq 15
+74 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+>
+3: fm AC7BR-4 to KD0J-10 ctl RR6+ 21:09:09
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:09:10
+3: fm AC7BR-4 to KD0J-10 ctl I66+ pid=CF(NET/ROM) len 21 21:09:11
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 28
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:09:11
+3: fm KD0J-10 to AC7BR-4 ctl RR7+ 21:09:11
+3: fm AC7BR-4 to KD0J-10 ctl RR6- 21:09:12
+3: fm KD0J-10 to AC7BR-4 ctl I76^ pid=CF(NET/ROM) len 157 21:09:14
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 28 rxseq 15
+74 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+>
+3: fm AC7BR-4 to K7BKO ctl I33+ pid=F0(Text) len 137 21:09:16
+74 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:09:16
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 21:09:16
+3: fm AC7BR-4 to KD0J-10 ctl I77+ pid=CF(NET/ROM) len 21 21:09:25
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 29
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 21:09:26
+3: fm K7BKO to AC7BR-4 ctl I43^ pid=F0(Text) len 3 21:10:26
+/i
+3: fm AC7BR-4 to KD0J-10 ctl I70+ pid=CF(NET/ROM) len 23 21:10:28
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 15 rxseq 29
+/i
+3: fm K7BKO to AC7BR-4 ctl RR4+ 21:10:33
+3: fm KD0J-10 to AC7BR-4 ctl I17^ pid=CF(NET/ROM) len 256 21:10:33
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 29 rxseq 16
+Next 10 runners inbound to  Desolation Lake as of 2110 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+2
+3: fm AC7BR-4 to K7BKO ctl I44+ pid=F0(Text) len 236 21:10:37
+Next 10 runners inbound to  Desolation Lake as of 2110 hours
+72 Trevor Fuchs Projected in at 1654 hours
+54 Nicholas Gaitan Projected in at 1708 hours
+171 Jesse Rich Projected in at 1716 hours
+252 Cody Draper Projected in at 1718 hours
+2
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:10:37
+3: fm AC7BR-4 to KD0J-10 ctl RR0v 21:10:37
+3: fm AC7BR-4 to K7BKO ctl RR4- 21:10:37
+3: fm KD0J-10 to AC7BR-4 ctl I10^ pid=CF(NET/ROM) len 157 21:10:39
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 30 rxseq 16
+74 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+>
+3: fm AC7BR-4 to K7BKO ctl I45+ pid=F0(Text) len 137 21:10:40
+74 Evan Reimondo Projected in at 1736 hours
+88 Joseph Taylor Projected in at 1743 hours
+114 Scott Hollister Projected in at 1748 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR6- 21:10:40
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 21:10:41
+3: fm AC7BR-4 to KD0J-10 ctl I11+ pid=CF(NET/ROM) len 21 21:10:49
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 31
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:10:50
+3: fm W0HU-5 to AC7BR-4 ctl RR7+ 21:11:12
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:11:14
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:11:14
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 21:13:04
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 21:13:11
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 21:13:14
+3: fm K7BKO to AC7BR-4 ctl I64^ pid=F0(Text) len 3 21:13:37
+/p
+3: fm AC7BR-4 to KD0J-10 ctl I12+ pid=CF(NET/ROM) len 23 21:13:38
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 16 rxseq 31
+/p
+3: fm AC7BR-4 to K7BKO ctl RR5v 21:13:39
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:13:39
+3: fm KD0J-10 to AC7BR-4 ctl I31^ pid=CF(NET/ROM) len 55 21:13:41
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 31 rxseq 17
+Checkpoint I Runners Pending 296
+>
+3: fm AC7BR-4 to K7BKO ctl I56+ pid=F0(Text) len 35 21:13:42
+Checkpoint I Runners Pending 296
+>
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:13:42
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 21:13:43
+3: fm AC7BR-4 to KD0J-10 ctl I23+ pid=CF(NET/ROM) len 21 21:13:52
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 32
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:13:53
+3: fm W0HU-5 to AC7BR-4 ctl RR7+ 21:14:13
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:14:13
+3: fm KI7L-7 to AC7BR-4 ctl RR2+ 21:14:15
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:14:15
+3: fm AC7BR-4 to KI7L-7 ctl I02+ pid=CF(NET/ROM) len 20 21:14:18
+NET/ROM: AC7BR-4->KEEPLI ttl 1
+         info: ur ckt 00/00 txseq 0 rxseq 0
+
+3: fm KI7L-7 to AC7BR-4 ctl RR3- 21:14:18
+3: fm K7BKO to AC7BR-4 ctl I75^ pid=F0(Text) len 8 21:14:23
+chkpt=m
+3: fm AC7BR-4 to KD0J-10 ctl I24+ pid=CF(NET/ROM) len 28 21:14:24
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 17 rxseq 32
+chkpt=m
+3: fm AC7BR-4 to K7BKO ctl RR6v 21:14:24
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:14:25
+3: fm KD0J-10 to AC7BR-4 ctl I52^ pid=CF(NET/ROM) len 57 21:14:28
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 32 rxseq 18
+K7BKO logged in at  Pole Line Pass
+>
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 37 21:14:29
+K7BKO logged in at  Pole Line Pass
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:14:29
+3: fm AC7BR-4 to K7BKO ctl RR6+ 21:14:38
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:14:38
+3: fm AC7BR-4 to KD0J-10 ctl I35+ pid=CF(NET/ROM) len 21 21:14:38
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 33
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:14:40
+3: fm KD0J-10 to AC7BR-4 ctl RR6+ 21:14:40
+3: fm AC7BR-4 to KD0J-10 ctl RR3- 21:14:40
+3: fm K7BKO to AC7BR-4 ctl I06^ pid=F0(Text) len 61 21:14:44
+/i,.........................................................
+3: fm AC7BR-4 to KD0J-10 ctl I36+ pid=CF(NET/ROM) len 81 21:14:46
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 18 rxseq 33
+/i,.........................................................
+3: fm AC7BR-4 to K7BKO ctl RR7v 21:14:46
+3: fm AC7BR-4 to KD0J-10 ctl RR3+ 21:14:50
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:14:50
+3: fm AC7BR-4 to KD0J-10 ctl I36+ pid=CF(NET/ROM) len 81 21:14:52
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 18 rxseq 33
+/i,.........................................................
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:14:52
+3: fm KD0J-10 to AC7BR-4 ctl I73^ pid=CF(NET/ROM) len 95 21:14:55
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 33 rxseq 19
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm K7BKO to AC7BR-4 ctl I07^ pid=F0(Text) len 5 21:14:56
+/i,n
+3: fm AC7BR-4 to K7BKO ctl I70+ pid=F0(Text) len 75 21:14:57
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:14:57
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 21:14:57
+3: fm AC7BR-4 to KD0J-10 ctl I47+ pid=CF(NET/ROM) len 25 21:14:59
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 19 rxseq 34
+/i,n
+3: fm AC7BR-4 to K7BKO ctl RR0v 21:15:00
+3: fm KD0J-10 to AC7BR-4 ctl I04^ pid=CF(NET/ROM) len 80 21:15:03
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 34 rxseq 20
+Next 10 runners inbound to  Rock Springs as of 2114 hours
+>
+3: fm AC7BR-4 to K7BKO ctl I01+ pid=F0(Text) len 60 21:15:04
+Next 10 runners inbound to  Rock Springs as of 2114 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR2- 21:15:04
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 21:15:04
+3: fm K7BKO to AC7BR-4 ctl I20^ pid=F0(Text) len 8 21:15:13
+./i,n,5
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:15:14
+3: fm K7BKO to AC7BR-4 ctl RR2+ 21:15:18
+3: fm AC7BR-4 to K7BKO ctl RR0- 21:15:19
+3: fm K7BKO to AC7BR-4 ctl I20^ pid=F0(Text) len 8 21:15:19
+./i,n,5
+3: fm AC7BR-4 to K7BKO ctl RR1v 21:15:21
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:15:21
+3: fm KD0J-10 to AC7BR-4 ctl I25^ pid=CF(NET/ROM) len 95 21:15:25
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 35 rxseq 21
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm K7BKO to AC7BR-4 ctl RR2+ 21:15:25
+3: fm AC7BR-4 to K7BKO ctl I12+ pid=F0(Text) len 75 21:15:26
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:15:26
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 21:15:26
+3: fm AC7BR-4 to K7BKO ctl RR1- 21:15:27
+3: fm KD6OAT-7 to NODES ctl UI^ pid=CF(NET/ROM) len 7 21:15:35
+NET/ROM Routing: SLCOAT
+3: fm AC7BR-4 to KD0J-10 ctl I62+ pid=CF(NET/ROM) len 21 21:15:35
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 36
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:15:36
+3: fm K7BKO to AC7BR-4 ctl I31^ pid=F0(Text) len 3 21:15:42
+/h
+3: fm AC7BR-4 to KD0J-10 ctl I63+ pid=CF(NET/ROM) len 23 21:15:43
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 21 rxseq 36
+/h
+3: fm AC7BR-4 to KD6OAT-7 ctl SABM+ 21:15:46
+3: fm KD0J-10 to AC7BR-4 ctl I46^ pid=CF(NET/ROM) len 102 21:15:47
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 36 rxseq 22
+ Pole Line Pass Runners In and NOT Out as of 2115
+# 333 IN:2103
+Total runners:1
+>
+3: fm AC7BR-4 to KD0J-10 ctl RR6+ 21:15:47
+3: fm K7BKO to AC7BR-4 ctl RR3+ 21:15:48
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 82 21:15:48
+ Pole Line Pass Runners In and NOT Out as of 2115
+# 333 IN:2103
+Total runners:1
+>
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:15:48
+3: fm AC7BR-4 to K7BKO ctl RR2- 21:15:49
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:15:50
+3: fm AC7BR-4 to KD6OAT-7 ctl SABM+ 21:15:50
+3: fm AC7BR-4 to KD0J-10 ctl RR7v 21:15:51
+3: fm AC7BR-4 to KD0J-10 ctl I74+ pid=CF(NET/ROM) len 21 21:15:57
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 37
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 21:16:02
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:16:03
+3: fm K7BKO to AC7BR-4 ctl I42^ pid=F0(Text) len 10 21:16:03
+333,,2116
+3: fm AC7BR-4 to KD0J-10 ctl I74+ pid=CF(NET/ROM) len 21 21:16:03
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 37
+3: fm AC7BR-4 to KD0J-10 ctl I75+ pid=CF(NET/ROM) len 30 21:16:05
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 22 rxseq 37
+333,,2116
+3: fm AC7BR-4 to K7BKO ctl RR3v 21:16:05
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 21:16:09
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:16:10
+3: fm AC7BR-4 to KD0J-10 ctl I75+ pid=CF(NET/ROM) len 30 21:16:11
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 22 rxseq 37
+333,,2116
+3: fm AC7BR-4 to KD0J-10 ctl RR7+ 21:16:16
+3: fm AC7BR-4 to KD0J-10 ctl I75+ pid=CF(NET/ROM) len 30 21:16:18
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 22 rxseq 37
+333,,2116
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:16:18
+3: fm KD0J-10 to AC7BR-4 ctl I67^ pid=CF(NET/ROM) len 43 21:16:21
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 37 rxseq 23
+#333,   OK @ 2116MDT
+>
+3: fm AC7BR-4 to K7BKO ctl I34+ pid=F0(Text) len 23 21:16:22
+#333,   OK @ 2116MDT
+>
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:16:22
+3: fm AC7BR-4 to K7BKO ctl RR3+ 21:16:26
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:16:26
+3: fm K7BKO to AC7BR-4 ctl I53^ pid=F0(Text) len 3 21:16:30
+/h
+3: fm AC7BR-4 to KD0J-10 ctl I06+ pid=CF(NET/ROM) len 21 21:16:32
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 38
+3: fm AC7BR-4 to K7BKO ctl RR4v 21:16:32
+3: fm AC7BR-4 to KD0J-10 ctl I07+ pid=CF(NET/ROM) len 23 21:16:34
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 23 rxseq 38
+/h
+3: fm KD0J-10 to AC7BR-4 ctl I00^ pid=CF(NET/ROM) len 88 21:16:37
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 38 rxseq 24
+ Pole Line Pass Runners In and NOT Out as of 2116
+Total runners:0
+>
+3: fm AC7BR-4 to K7BKO ctl I45+ pid=F0(Text) len 68 21:16:39
+ Pole Line Pass Runners In and NOT Out as of 2116
+Total runners:0
+>
+3: fm K7BKO to AC7BR-4 ctl RR6- 21:16:39
+3: fm AC7BR-4 to KD0J-10 ctl RR1v 21:16:39
+3: fm AC7BR-4 to KD0J-10 ctl I10+ pid=CF(NET/ROM) len 21 21:16:47
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 39
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:16:48
+3: fm K7BKO to AC7BR-4 ctl I64^ pid=F0(Text) len 7 21:16:50
+/i,n,5
+3: fm AC7BR-4 to KD0J-10 ctl I11+ pid=CF(NET/ROM) len 27 21:16:52
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 24 rxseq 39
+/i,n,5
+3: fm AC7BR-4 to KD6OAT-7 ctl SABM+ 21:16:52
+3: fm AC7BR-4 to K7BKO ctl RR5v 21:16:52
+3: fm KD6OAT-7 to AC7BR-4 ctl UA- 21:16:53
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:16:53
+3: fm KD0J-10 to AC7BR-4 ctl I21^ pid=CF(NET/ROM) len 95 21:16:56
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 39 rxseq 25
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm AC7BR-4 to K7BKO ctl I56+ pid=F0(Text) len 75 21:16:57
+Checkpoint incoming list request is /I,(chkpt),[number] Example: /I,B,15
+>
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:16:57
+3: fm AC7BR-4 to KD0J-10 ctl RR2v 21:16:57
+3: fm AC7BR-4 to KD0J-10 ctl I22+ pid=CF(NET/ROM) len 21 21:17:06
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 40
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:17:08
+3: fm AC7BR-4 to KD0J-10 ctl RR2+ 21:17:11
+3: fm KD0J-10 to AC7BR-4 ctl RR3- 21:17:13
+3: fm W0HU-5 to AC7BR-4 ctl RR7+ 21:17:15
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:17:15
+3: fm KI7L-7 to AC7BR-4 ctl RR3+ 21:17:19
+3: fm K7BKO to AC7BR-4 ctl I75^ pid=F0(Text) len 8 21:17:40
+/i,N,15
+3: fm AC7BR-4 to KD0J-10 ctl I23+ pid=CF(NET/ROM) len 28 21:17:42
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 25 rxseq 40
+/i,N,15
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:17:43
+3: fm K7BKO to AC7BR-4 ctl RR7+ 21:17:45
+3: fm KD0J-10 to AC7BR-4 ctl I42^ pid=CF(NET/ROM) len 127 21:17:47
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 40 rxseq 26
+Next 15 runners inbound to  Rock Springs as of 2117 hours
+333 Sarah McCloskey Projected in at 2207 hours
+>
+3: fm AC7BR-4 to K7BKO ctl I67+ pid=F0(Text) len 107 21:17:49
+Next 15 runners inbound to  Rock Springs as of 2117 hours
+333 Sarah McCloskey Projected in at 2207 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:17:49
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 21:17:51
+3: fm AC7BR-4 to W0HU-5 ctl RR0+ 21:17:52
+3: fm W0HU-5 to AC7BR-4 ctl RR7- 21:17:52
+3: fm K7BKO to AC7BR-4 ctl RR0+ 21:17:56
+3: fm AC7BR-4 to K7BKO ctl RR6- 21:17:57
+3: fm AC7BR-4 to KD0J-10 ctl I34+ pid=CF(NET/ROM) len 21 21:17:58
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 41
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:17:58
+3: fm KG7UJH-2 to AC7BR-4 ctl DISC+ 21:18:13
+3: fm AC7BR-4 to KG7UJH-2 ctl UA- 21:18:13
+3: fm AC7BR-4 to KG7UJH-2 ctl SABM+ 21:18:20
+3: fm KG7UJH-2 to AC7BR-4 ctl UA- 21:18:21
+3: fm K7BKO to AC7BR-4 ctl I06^ pid=F0(Text) len 6 21:18:52
+leads
+3: fm AC7BR-4 to KD0J-10 ctl I35+ pid=CF(NET/ROM) len 26 21:18:53
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 26 rxseq 41
+leads
+3: fm AC7BR-4 to K7BKO ctl RR7v 21:18:53
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:18:54
+3: fm KD0J-10 to AC7BR-4 ctl I63^ pid=CF(NET/ROM) len 256 21:18:58
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 41 rxseq 27
+Leader list as of 2118 hours
+1 333 Sarah McCloskey out  Pole Line Pass 2116 hours
+2 72 Trevor Fuchs out  Upper Big Water 1555 hours
+3 54 Nicholas Gaitan out  Upper Big Water 1608 hours
+4 171 Jesse Rich out  Upper Big Water 1616 hours
+5 
+3: fm AC7BR-4 to K7BKO ctl I70+ pid=F0(Text) len 236 21:19:01
+Leader list as of 2118 hours
+1 333 Sarah McCloskey out  Pole Line Pass 2116 hours
+2 72 Trevor Fuchs out  Upper Big Water 1555 hours
+3 54 Nicholas Gaitan out  Upper Big Water 1608 hours
+4 171 Jesse Rich out  Upper Big Water 1616 hours
+5 
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:19:01
+3: fm AC7BR-4 to KD0J-10 ctl RR4v 21:19:01
+3: fm AC7BR-4 to KD0J-10 ctl I46+ pid=CF(NET/ROM) len 21 21:19:09
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 42
+3: fm AC7BR-4 to KD0J-10 ctl RR4+ 21:19:13
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:19:14
+3: fm KD0J-10 to AC7BR-4 ctl RR6+ 21:19:14
+3: fm AC7BR-4 to KD0J-10 ctl I46+ pid=CF(NET/ROM) len 21 21:19:15
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 42
+3: fm AC7BR-4 to KD0J-10 ctl RR4- 21:19:15
+3: fm KD0J-10 to AC7BR-4 ctl RR7- 21:19:16
+3: fm KD0J-10 to AC7BR-4 ctl I74^ pid=CF(NET/ROM) len 256 21:19:18
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 42 rxseq 27
+252 Cody Draper out  Upper Big Water 1618 hours
+6 274 Evan Reimondo out  Upper Big Water 1636 hours
+7 88 Joseph Taylor out  Upper Big Water 1643 hours
+8 114 Scott Hollister out  Upper Big Water 1648 hours
+9 279 Ian Seabury in  Upper Big
+3: fm AC7BR-4 to K7BKO ctl I71+ pid=F0(Text) len 236 21:19:20
+252 Cody Draper out  Upper Big Water 1618 hours
+6 274 Evan Reimondo out  Upper Big Water 1636 hours
+7 88 Joseph Taylor out  Upper Big Water 1643 hours
+8 114 Scott Hollister out  Upper Big Water 1648 hours
+9 279 Ian Seabury in  Upper Big
+3: fm K7BKO to AC7BR-4 ctl RR2- 21:19:20
+3: fm AC7BR-4 to KD0J-10 ctl RR5v 21:19:21
+3: fm KD0J-10 to AC7BR-4 ctl I75^ pid=CF(NET/ROM) len 256 21:19:24
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8C txseq 43 rxseq 27
+ Water 1608 hours
+10 150 Brian Harward out  Lamb's Canyon 1507 hours
+Female Leaders
+1 333 Sarah McCloskey out  Pole Line Pass 2116 hours
+2 337 Luzia Buehler out  Lamb's Canyon 1540 hours
+3 306 Jennilyn Eaton out  Lamb's Canyon 1627 hour
+3: fm AC7BR-4 to K7BKO ctl I72+ pid=F0(Text) len 236 21:19:27
+ Water 1608 hours
+10 150 Brian Harward out  Lamb's Canyon 1507 hours
+Female Leaders
+1 333 Sarah McCloskey out  Pole Line Pass 2116 hours
+2 337 Luzia Buehler out  Lamb's Canyon 1540 hours
+3 306 Jennilyn Eaton out  Lamb's Canyon 1627 hour
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:19:27
+3: fm AC7BR-4 to KD0J-10 ctl RR6v 21:19:27
+3: fm AC7BR-4 to K7BKO ctl RR7+ 21:19:34
+3: fm K7BKO to AC7BR-4 ctl RR3- 21:19:34
+3: fm AC7BR-4 to K7BKO ctl I73+ pid=F0(Text) len 112 21:19:36
+s
+4 74 Rebekah Allen Johnson out  Lamb's Canyon 1632 hours
+5 262 Alison Memmott out  Lamb's Canyon 1644 hours
+>
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:19:36
+3: fm AC7BR-4 to KD0J-10 ctl I77+ pid=CF(NET/ROM) len 21 21:19:39
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 45
+3: fm KD0J-10 to AC7BR-4 ctl RR0- 21:19:40
+3: fm K7BKO to AC7BR-4 ctl I47^ pid=F0(Text) len 2 21:20:16
+b
+3: fm AC7BR-4 to KD0J-10 ctl I70+ pid=CF(NET/ROM) len 22 21:20:18
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 02/39 txseq 27 rxseq 45
+b
+3: fm AC7BR-4 to K7BKO ctl RR0v 21:20:18
+3: fm KD0J-10 to AC7BR-4 ctl RR1- 21:20:19
+3: fm KI7L-7 to AC7BR-4 ctl RR3+ 21:20:20
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:20:21
+3: fm AC7BR-4 to KD0J-10 ctl RR7- 21:20:27
+3: fm KI7L-7 to AC7BR-4 ctl RR3+ 21:20:28
+3: fm AC7BR-4 to KI7L-7 ctl RR0- 21:20:29
+3: fm AC7BR-4 to K7BKO ctl I04+ pid=F0(Text) len 16 21:20:31
+Disconnecting
+>
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:20:31
+3: fm AC7BR-4 to K7BKO ctl RR0+ 21:20:36
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:20:36
+3: fm AC7BR-4 to KD0J-10 ctl I01+ pid=CF(NET/ROM) len 21 21:20:41
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info ack: ur ckt 02/39 rxseq 46
+3: fm KD0J-10 to AC7BR-4 ctl RR2- 21:20:42
+3: fm KD0J-10 to AC7BR-4 ctl I20^ pid=CF(NET/ROM) len 20 21:20:44
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         disc: ur ckt 01/8C
+3: fm AC7BR-4 to KD0J-10 ctl I12+ pid=CF(NET/ROM) len 20 21:20:45
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         disc ack: ur ckt 02/39
+3: fm AC7BR-4 to K7BKO ctl DISC+ 21:20:45
+3: fm K7BKO to AC7BR-4 ctl UA- 21:20:45
+3: fm W0HU-5 to AC7BR-4 ctl RR0+ 21:20:54
+3: fm AC7BR-4 to W0HU-5 ctl RR0- 21:20:54
+3: fm K2WVC-6 to AC7BR-4 ctl RR0- 21:20:57
+3: fm K7BKO to AC7BR-4 ctl SABM+ 21:21:28
+3: fm AC7BR-4 to K7BKO ctl UA- 21:21:29
+3: fm K7BKO to AC7BR-4 ctl I00^ pid=F0(Text) len 2 21:21:32
+?
+3: fm AC7BR-4 to K7BKO ctl I10+ pid=F0(Text) len 70 21:21:34
+RIV:AC7BR-4} BBS RMS CONNECT BYE INFO NODES PORTS ROUTES USERS MHEARD
+3: fm K7BKO to AC7BR-4 ctl RR1- 21:21:34
+3: fm K7BKO to AC7BR-4 ctl I11^ pid=F0(Text) len 6 21:21:37
+nodes
+3: fm AC7BR-4 to K7BKO ctl I21^ pid=F0(Text) len 120 21:21:39
+RIV:AC7BR-4} Nodes
+#ANT:W7JOF-6        #DAV96:K7DAV-9      #LM96:N7OEY-6       ANT:W7JOF-7         
+DAV:K7DAV-7         
+3: fm AC7BR-4 to K7BKO ctl I22^ pid=F0(Text) len 120 21:21:40
+HUNTS:W7DBA-8       IMED:KI7L-7         ISLAND:KD0J-13      
+KATE:W0HU-6         LITMTN:N7OEY-9      PEAK:KD0J-10       
+3: fm AC7BR-4 to K7BKO ctl I23+ pid=F0(Text) len 120 21:21:41
+ RACE:KD0J-7         
+RACERE:KE7BME-3     RIVBBS:AC7BR-3      RIVRMS:AC7BR-10     SLCOAT:KD6OAT-7     
+SMTN:W0HU-5      
+3: fm K7BKO to AC7BR-4 ctl RR4- 21:21:41
+3: fm AC7BR-4 to K7BKO ctl I24+ pid=F0(Text) len 105 21:21:43
+   UJHBBS:KG7UJH-2     WVC:K2WVC-6         WVCBBS:K2WVC-1      
+WVCCHT:K2WVC-2      WVCRMS:K2WVC-10     
+3: fm K7BKO to AC7BR-4 ctl RR5- 21:21:43
+3: fm W0HU-5 to ID ctl UI^ pid=F0(Text) len 22 21:21:48
+TheNet X-1J4  (SMTN) 
+3: fm K7BKO to AC7BR-4 ctl I52^ pid=F0(Text) len 13 21:21:51
+connect race
+3: fm AC7BR-4 to KD0J-10 ctl I13+ pid=CF(NET/ROM) len 37 21:21:53
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         conn rqst: my ckt 01/8E wnd 4 K7BKO@AC7BR-4 timeout 60
+3: fm AC7BR-4 to K7BKO ctl RR3v 21:21:53
+3: fm KD6OAT-7 to AC7BR-4 ctl DISC+ 21:21:53
+3: fm KD0J-10 to AC7BR-4 ctl RR4- 21:21:54
+3: fm KD0J-10 to AC7BR-4 ctl I41^ pid=CF(NET/ROM) len 22 21:21:56
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         conn ack: ur ckt 01/8E my ckt 00/3B wnd 4
+3: fm AC7BR-4 to K7BKO ctl I35+ pid=F0(Text) len 38 21:21:57
+RIV:AC7BR-4} Connected to RACE:KD0J-7
+3: fm K7BKO to AC7BR-4 ctl RR6- 21:21:57
+3: fm KD0J-10 to AC7BR-4 ctl I42^ pid=CF(NET/ROM) len 143 21:22:03
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8E txseq 0 rxseq 0
+Connected to Wasatch 100 Database Ver 2017, Compiled 
+Sysop Status Messages
+Welcome to the 2018 Wasatch 100 test system 
+>
+3: fm AC7BR-4 to K7BKO ctl I36+ pid=F0(Text) len 123 21:22:05
+Connected to Wasatch 100 Database Ver 2017, Compiled 
+Sysop Status Messages
+Welcome to the 2018 Wasatch 100 test system 
+>
+3: fm K7BKO to AC7BR-4 ctl RR7- 21:22:05
+3: fm AC7BR-4 to KD0J-10 ctl RR3v 21:22:06
+3: fm AC7BR-4 to KD6OAT-7 ctl UA- 21:22:06
+3: fm KD6OAT-7 to AC7BR-4 ctl DISC+ 21:22:08
+3: fm AC7BR-4 to KD6OAT-7 ctl DM- 21:22:09
+3: fm AC7BR-4 to KD6OAT-7 ctl SABM+ 21:22:12
+3: fm KD6OAT-7 to AC7BR-4 ctl DISC+ 21:22:13
+3: fm KD0J-10 to AC7BR-4 ctl RR5- 21:22:15
+3: fm K7BKO to AC7BR-4 ctl I73^ pid=F0(Text) len 2 21:22:16
+b
+3: fm AC7BR-4 to KD0J-10 ctl I35+ pid=CF(NET/ROM) len 22 21:22:17
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 00/3B txseq 0 rxseq 1
+b
+3: fm AC7BR-4 to K7BKO ctl RR4v 21:22:18
+3: fm KD0J-10 to AC7BR-4 ctl RR6- 21:22:18
+3: fm KD0J-10 to AC7BR-4 ctl I63^ pid=CF(NET/ROM) len 36 21:22:20
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         info: ur ckt 01/8E txseq 1 rxseq 1
+Disconnecting
+>
+3: fm AC7BR-4 to K7BKO ctl I47+ pid=F0(Text) len 16 21:22:21
+Disconnecting
+>
+3: fm K7BKO to AC7BR-4 ctl RR0- 21:22:21
+3: fm K7BKO to AC7BR-4 ctl I04^ pid=F0(Text) len 2 21:22:23
+b
+3: fm AC7BR-4 to KD0J-10 ctl I46+ pid=CF(NET/ROM) len 22 21:22:25
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         info: ur ckt 00/3B txseq 1 rxseq 2
+b
+3: fm AC7BR-4 to K7BKO ctl RR5v 21:22:25
+3: fm KD0J-10 to AC7BR-4 ctl I74^ pid=CF(NET/ROM) len 20 21:22:28
+NET/ROM: KD0J-7->AC7BR-4 ttl 23
+         disc: ur ckt 01/8E
+3: fm AC7BR-4 to KD0J-10 ctl I57+ pid=CF(NET/ROM) len 20 21:22:29
+NET/ROM: AC7BR-4->KD0J-7 ttl 25
+         disc ack: ur ckt 00/3B
+3: fm AC7BR-4 to K7BKO ctl DISC+ 21:22:29
+3: fm K7BKO to AC7BR-4 ctl UA- 21:22:29
+
