@@ -28,11 +28,20 @@ sudo killall kissattach
 
 ## Packet Monitoring
 
-Packets can be monitored using `axlisten`. This can be done in a separate terminal window.
+Packets can be monitored using `axlisten`. This can be done in a separate terminal window to keep tabs on what's being sent behind the scenes.
 
 ```
-sudo axlisten –a
+sudo axlisten
 ```
+
+`axlisten` can be used with different options:
+
+
+`-a`
+: Displays both incoming and outgoing packets.
+
+`-c`
+: Color codes various parts of the packets.
 
 
 ## Connecting to Other Stations
