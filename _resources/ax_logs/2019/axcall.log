@@ -1,0 +1,999 @@
+3: fm KC6BSA-3 to CLAY ctl RR3v 
+3: fm KI7ONW to CLAY ctl I13+ pid=F0(Text) len 10 
+0000  267,0949,.
+3: fm KI7ONW to CLAY ctl RR1+ 
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I41^ pid=F0(Text) len 23 
+0000  #267,   OK @ 0950MDT..>
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm KI7ONW to CLAY ctl RR1+ 
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl RR4+ 
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm CLAY to KI7ONW ctl I41^ pid=F0(Text) len 23 
+0000  #267,   OK @ 0950MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl I33^ pid=F0(Text) len 11 
+0000  200,0952,,.
+3: fm KI7ONW to CLAY ctl I24+ pid=F0(Text) len 10 
+0000  272,,0953.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I52^ pid=F0(Text) len 23 
+0000  #272,   OK @ 0953MDT..>
+3: fm CLAY to KC6BSA-3 ctl RR4- 
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl RR4+ 
+3: fm KC6BSA-3 to CLAY ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I43^ pid=F0(Text) len 23 
+0000  #200,   OK @ 0953MDT..>
+3: fm KC6BSA-3 to CLAY ctl RR4v 
+3: fm KI7ONW to CLAY ctl I35+ pid=F0(Text) len 3 
+0000  /i.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I63^ pid=F0(Text) len 236 
+0000  Next 10 runners inbound to  Pot Hollow as of 0955 hours.227 Paul
+0040   Roberts Projected in at 0945 hours.50 Juan De Oliva Projected i
+0080  n at 1000 hours.389 Tom Remkes Projected in at 1000 hours.34 Zac
+00C0  hary Case Projected in at 1002 hours.161 Dou
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm CLAY to KI7ONW ctl I64^ pid=F0(Text) len 236 
+0000  glas Anderson Projected in at 1002 hours.61 Katie Trent Projecte
+0040  d in at 1003 hours.344 Cobus Van Den Berg Projected in at 1003 h
+0080  ours.379 Kathy Milligan Projected in at 1003 hours.291 Bruce Com
+00C0  mander Projected in at 1004 hours.357 Geoff 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 35 
+0000  Smith Projected in at 1006 hours..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  185,,0956.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #185,   OK @ 0957MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  061,0956,.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #061,   OK @ 0957MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KI7ONW to CLAY ctl I00+ pid=F0(Text) len 10 
+0000  050,0956,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 23 
+0000  #050,   OK @ 0957MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I11+ pid=F0(Text) len 10 
+0000  389,0956,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #389,   OK @ 0958MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR4+ 
+3: fm CLAY to KC6BSA-3 ctl RR4- 
+3: fm KC6BSA-3 to CLAY ctl I44^ pid=F0(Text) len 6 
+0000  /r328.
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm CLAY to KC6BSA-3 ctl I54^ pid=F0(Text) len 125 
+0000  At 0958 hours, Runner 328 Sarah Duffy last reported.Left  Pole L
+0040  ine Pass(L) at 0841. Proj. at  Rock Springs(M) 1008..*****..>
+3: fm KC6BSA-3 to CLAY ctl RR5v 
+3: fm KI7ONW to CLAY ctl RR2+ 
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm KI7ONW to CLAY ctl I22+ pid=F0(Text) len 10 
+0000  012,,1003.
+3: fm KI7ONW to CLAY ctl RR2+ 
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I32^ pid=F0(Text) len 23 
+0000  #012,   OK @ 1003MDT..>
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl RR3+ 
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KC6BSA-3 to CLAY ctl RR5+ 
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm KI7ONW to CLAY ctl I33+ pid=F0(Text) len 9 
+0000  227,1003.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I43^ pid=F0(Text) len 23 
+0000  #227,   OK @ 1004MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I44+ pid=F0(Text) len 10 
+0000  267,,1003.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I54^ pid=F0(Text) len 23 
+0000  #267,   OK @ 1005MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I55+ pid=F0(Text) len 10 
+0000  061,,1004.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 23 
+0000  #061,   OK @ 1005MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  050,,1004.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #050,   OK @ 1005MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KC6BSA-3 to CLAY ctl I55^ pid=F0(Text) len 37 
+0000  dnf,325,1005,t,finish,a.s. personnel.
+3: fm KC6BSA-3 to CLAY ctl RR5+ 
+3: fm CLAY to KC6BSA-3 ctl I65^ pid=F0(Text) len 77 
+0000  Runner 325 In Time not found.Submit In Time for runner before en
+0040  tering DNF..>
+3: fm KC6BSA-3 to CLAY ctl RR6v 
+3: fm CLAY to KC6BSA-3 ctl RR6- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  389,,1004.
+3: fm KI7ONW to CLAY ctl RR7+ 
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #389,   OK @ 1006MDT..>
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl RR0+ 
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl I66^ pid=F0(Text) len 11 
+0000  325,1002,,.
+3: fm CLAY to KC6BSA-3 ctl RR7- 
+3: fm CLAY to KC6BSA-3 ctl I76^ pid=F0(Text) len 23 
+0000  #325,   OK @ 1007MDT..>
+3: fm KC6BSA-3 to CLAY ctl RR7v 
+3: fm KC6BSA-3 to CLAY ctl I77^ pid=F0(Text) len 1 
+0000  .
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm CLAY to KC6BSA-3 ctl I07^ pid=F0(Text) len 4 
+0000   ..>
+3: fm KC6BSA-3 to CLAY ctl RR0v 
+3: fm KI7ONW to CLAY ctl I00+ pid=F0(Text) len 10 
+0000  227,1003,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 23 
+0000  #227,   OK @ 1007MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KC6BSA-3 to CLAY ctl I00^ pid=F0(Text) len 37 
+0000  dnf,325,1005,t,finish,a.s. personnel.
+3: fm KI7ONW to CLAY ctl RR1+ 
+3: fm KC6BSA-3 to CLAY ctl RR0+ 
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl I00^ pid=F0(Text) len 37 
+0000  dnf,325,1005,t,finish,a.s. personnel.
+3: fm KI7ONW to CLAY ctl RR1+ 
+3: fm KC6BSA-3 to CLAY ctl RR0+ 
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl I00^ pid=F0(Text) len 37 
+0000  dnf,325,1005,t,finish,a.s. personnel.
+3: fm CLAY to KC6BSA-3 ctl RR1- 
+3: fm KI7ONW to CLAY ctl I11+ pid=F0(Text) len 10 
+0000  034,1004,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl I10^ pid=F0(Text) len 169 
+0000  Confirm DNF of runner 325 Roy Van Buren at  Pole Line Pass. at 1
+0040  005 for TIME going to FINISH via A.S. PERSONNEL. by entering DNF
+0080  OK. Any other response voids DNF entry..>
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #034,   OK @ 1007MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR1v 
+3: fm KC6BSA-3 to CLAY ctl I11^ pid=F0(Text) len 6 
+0000  dnfok.
+3: fm KI7ONW to CLAY ctl I22+ pid=F0(Text) len 10 
+0000  291,1004,.
+3: fm KC6BSA-3 to CLAY ctl RR1+ 
+3: fm KI7ONW to CLAY ctl RR2+ 
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I21^ pid=F0(Text) len 28 
+0000  DNF accepted at time 1008..>
+3: fm KC6BSA-3 to CLAY ctl RR2v 
+3: fm CLAY to KI7ONW ctl I32^ pid=F0(Text) len 23 
+0000  #291,   OK @ 1008MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I33+ pid=F0(Text) len 10 
+0000  034,,1008.
+3: fm KI7ONW to CLAY ctl RR3+ 
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I43^ pid=F0(Text) len 23 
+0000  #034,   OK @ 1009MDT..>
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl RR4+ 
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I44+ pid=F0(Text) len 10 
+0000  344,1005,.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I54^ pid=F0(Text) len 23 
+0000  #344,   OK @ 1009MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I55+ pid=F0(Text) len 10 
+0000  161,1007,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 23 
+0000  #161,   OK @ 1010MDT..>
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  356,1008,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #356,   OK @ 1011MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  344,,1011.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #344,   OK @ 1011MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KI7ONW to CLAY ctl I00+ pid=F0(Text) len 10 
+0000  116,1008,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 23 
+0000  #116,   OK @ 1012MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KC6BSA-3 to CLAY ctl I22^ pid=F0(Text) len 11 
+0000  200,0952,,.
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I32^ pid=F0(Text) len 23 
+0000  #200,   OK @ 1012MDT..>
+3: fm KI7ONW to CLAY ctl I11+ pid=F0(Text) len 10 
+0000  007,1009,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR3v 
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #007,   OK @ 1012MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl I33^ pid=F0(Text) len 29 
+0000  dnf,200,1010,t,finish,friend.
+3: fm KI7ONW to CLAY ctl RR2+ 
+3: fm KC6BSA-3 to CLAY ctl RR3+ 
+3: fm KI7ONW to CLAY ctl RR2+ 
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm KC6BSA-3 to CLAY ctl I33^ pid=F0(Text) len 29 
+0000  dnf,200,1010,t,finish,friend.
+3: fm KI7ONW to CLAY ctl I22+ pid=F0(Text) len 10 
+0000  126,1009,.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl RR4- 
+3: fm CLAY to KC6BSA-3 ctl I43^ pid=F0(Text) len 160 
+0000  Confirm DNF of runner 200 Rhonda Braun at  Pole Line Pass. at 10
+0040  10 for TIME going to FINISH via FRIEND. by entering DNFOK. Any o
+0080  ther response voids DNF entry..>
+3: fm CLAY to KI7ONW ctl I32^ pid=F0(Text) len 23 
+0000  #126,   OK @ 1012MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KC6BSA-3 to CLAY ctl RR4v 
+3: fm KI7ONW to CLAY ctl I33+ pid=F0(Text) len 10 
+0000  309,1010,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I43^ pid=F0(Text) len 23 
+0000  #309,   OK @ 1013MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KC6BSA-3 to CLAY ctl I44^ pid=F0(Text) len 6 
+0000  dnfok.
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm CLAY to KC6BSA-3 ctl I54^ pid=F0(Text) len 28 
+0000  DNF accepted at time 1013..>
+3: fm KC6BSA-3 to CLAY ctl RR5v 
+3: fm KI7ONW to CLAY ctl I44+ pid=F0(Text) len 10 
+0000  357,1010,.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I54^ pid=F0(Text) len 23 
+0000  #357,   OK @ 1013MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I55+ pid=F0(Text) len 10 
+0000  352,1011,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 23 
+0000  #352,   OK @ 1013MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  182,1013,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #182,   OK @ 1013MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  352,,1013.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #352,   OK @ 1014MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 23 
+0000  #356,   OK @ 1014MDT..>
+3: fm KI7ONW to CLAY ctl I11+ pid=F0(Text) len 10 
+0000  161,,1014.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #161,   OK @ 1016MDT..>
+3: fm CLAY to KI7ONW ctl RR2+ 
+3: fm CLAY to KI7ONW ctl RR2+ 
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #161,   OK @ 1016MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR5+ 
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm KI7ONW to CLAY ctl I22+ pid=F0(Text) len 10 
+0000  227,,1017.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I32^ pid=F0(Text) len 23 
+0000  #227,   OK @ 1018MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I43^ pid=F0(Text) len 23 
+0000  #126,   OK @ 1019MDT..>
+3: fm KI7ONW to CLAY ctl I44+ pid=F0(Text) len 10 
+0000  291,,1018.
+3: fm KI7ONW to CLAY ctl RR4+ 
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I54^ pid=F0(Text) len 23 
+0000  #291,   OK @ 1020MDT..>
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl RR5+ 
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I55+ pid=F0(Text) len 10 
+0000  116,,1017.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 23 
+0000  #116,   OK @ 1020MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  007,,1018.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #007,   OK @ 1021MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  309,,1020.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #309,   OK @ 1021MDT..>
+3: fm KC6BSA-3 to CLAY ctl I55^ pid=F0(Text) len 3 
+0000  /a.
+3: fm CLAY to KC6BSA-3 ctl I65^ pid=F0(Text) len 41 
+0000   Pole Line Pass Problems at 1021 hours..>
+3: fm CLAY to KI7ONW ctl RR0+ 
+3: fm KC6BSA-3 to CLAY ctl RR6v 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #309,   OK @ 1021MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl I66^ pid=F0(Text) len 3 
+0000  /i.
+3: fm CLAY to KC6BSA-3 ctl RR7- 
+3: fm CLAY to KC6BSA-3 ctl I76^ pid=F0(Text) len 107 
+0000  Next 10 runners inbound to  Pole Line Pass as of 1021 hours.168 
+0040  Gillian Soles Projected in at 1000 hours..>
+3: fm KC6BSA-3 to CLAY ctl RR7v 
+3: fm KI7ONW to CLAY ctl I00+ pid=F0(Text) len 14 
+0000  236,1013,1020.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 23 
+0000  #236,   OK @ 1021MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I11+ pid=F0(Text) len 14 
+0000  379,1014,1018.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I21^ pid=F0(Text) len 23 
+0000  #379,   OK @ 1022MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl I77^ pid=F0(Text) len 6 
+0000  /r77a.
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm CLAY to KC6BSA-3 ctl I07^ pid=F0(Text) len 236 
+0000  At 1022 hours, Runner 077 Steven Namanny last reported.Left  Pol
+0040  e Line Pass(L) at 0845. Proj. at  Rock Springs(M) 1012..B 0955 1
+0080  005.C 1104 1109.D 1357 1410.E 1615 1623.F 1744 1802.G 2106 2132.
+00C0  H 2328 2339.I 0108 0110.J 0236 0357.K 0700 0
+3: fm KC6BSA-3 to CLAY ctl RR0v 
+3: fm CLAY to KC6BSA-3 ctl I00^ pid=F0(Text) len 24 
+0000  714.L 0841 0845.*****..>
+3: fm KC6BSA-3 to CLAY ctl RR1v 
+3: fm KC6BSA-3 to CLAY ctl I10^ pid=F0(Text) len 6 
+0000  /r80a.
+3: fm CLAY to KC6BSA-3 ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl I11^ pid=F0(Text) len 171 
+0000  At 1023 hours, Runner 080 Matthew Hagenah last reported.DNFQ CHK
+0040  PT F at time 1752 Going to SLC Via CREW.B 0922 0926.C 1023 1023.
+0080  D 1310 1348.E 1540 1548.F 1711 DNF.*****..>
+3: fm KC6BSA-3 to CLAY ctl RR2v 
+3: fm KI7ONW to CLAY ctl I22+ pid=F0(Text) len 10 
+0000  357,,1023.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I32^ pid=F0(Text) len 23 
+0000  #357,   OK @ 1023MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I33+ pid=F0(Text) len 10 
+0000  182,,1023.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I43^ pid=F0(Text) len 23 
+0000  #182,   OK @ 1024MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KC6BSA-3 to CLAY ctl I21^ pid=F0(Text) len 7 
+0000  /r125a.
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl I22^ pid=F0(Text) len 236 
+0000  At 1025 hours, Runner 125 Philip Cappuccio last reported.Left  P
+0040  ole Line Pass(L) at 0835. Proj. at  Rock Springs(M) 1002..B 1032
+0080   1038.C 1151 1154.D 1544 1555.E 1839 1847.F 2029 2042.G 2356 000
+00C0  4.H 0159 0201.I 0335 0338.J 0459 0512.K 0715
+3: fm KC6BSA-3 to CLAY ctl RR3v 
+3: fm CLAY to KC6BSA-3 ctl I23^ pid=F0(Text) len 26 
+0000   0717.L 0827 0835.*****..>
+3: fm KC6BSA-3 to CLAY ctl RR4v 
+3: fm KI7ONW to CLAY ctl I44+ pid=F0(Text) len 14 
+0000  260,1019,1024.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I54^ pid=F0(Text) len 23 
+0000  #260,   OK @ 1025MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I55+ pid=F0(Text) len 10 
+0000  369,1023,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I65^ pid=F0(Text) len 23 
+0000  #369,   OK @ 1025MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I66+ pid=F0(Text) len 10 
+0000  388,1024,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 23 
+0000  #388,   OK @ 1026MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I77+ pid=F0(Text) len 10 
+0000  231,1028,.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I07^ pid=F0(Text) len 23 
+0000  #231,   OK @ 1028MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KD0J-4 to NODES ctl UI^ pid=CF(NET/ROM) len 70 
+NET/ROM Routing: CLAY  
+              KD0J-7  RACE            KD0J-7    110
+              KD0J-8  LEWIS           KD0J-8    110
+             KD0J-11  CLAY           KD0J-11     70
+3: fm KC6BSA-3 to CLAY ctl RR4+ 
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm KI7ONW to CLAY ctl I00+ pid=F0(Text) len 3 
+0000  /i.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I10^ pid=F0(Text) len 236 
+0000  Next 10 runners inbound to  Pot Hollow as of 1032 hours.88 Melan
+0040  ie Topham Projected in at 1007 hours.174 Yu-Yen Mo Projected in 
+0080  at 1015 hours.122 Becky Johnson Projected in at 1018 hours.366 B
+00C0  rian Hamos Projected in at 1019 hours.280 Ja
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm CLAY to KI7ONW ctl I11^ pid=F0(Text) len 236 
+0000  men Nelson Projected in at 1032 hours.359 Walter Edwards Project
+0040  ed in at 1045 hours.134 Kirk Cox Projected in at 1046 hours.165 
+0080  Erin Good Projected in at 1048 hours.342 Jeff Faber Projected in
+00C0   at 1048 hours.361 Deanna McLaughlin Project
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm CLAY to KI7ONW ctl I12^ pid=F0(Text) len 22 
+0000  ed in at 1052 hours..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I31+ pid=F0(Text) len 10 
+0000  366,1031,.
+3: fm KI7ONW to CLAY ctl RR3+ 
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I23^ pid=F0(Text) len 23 
+0000  #366,   OK @ 1032MDT..>
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl RR2+ 
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I42+ pid=F0(Text) len 3 
+0000  /p.
+3: fm KI7ONW to CLAY ctl RR4+ 
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I34^ pid=F0(Text) len 34 
+0000  Checkpoint N Runners Pending 68..>
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl RR3+ 
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I53+ pid=F0(Text) len 10 
+0000  369,,1033.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I45^ pid=F0(Text) len 23 
+0000  #369,   OK @ 1034MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I64+ pid=F0(Text) len 10 
+0000  388,,1034.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I56^ pid=F0(Text) len 23 
+0000  #388,   OK @ 1035MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I75+ pid=F0(Text) len 10 
+0000  359,1034,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I67^ pid=F0(Text) len 23 
+0000  #359,   OK @ 1035MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm CLAY to KC6BSA-3 ctl I24^ pid=F0(Text) len 25 
+0000  1035  1 Inbound Runners.>
+3: fm KC6BSA-3 to CLAY ctl RR5v 
+3: fm KI7ONW to CLAY ctl I06+ pid=F0(Text) len 10 
+0000  231,,1036.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I70^ pid=F0(Text) len 23 
+0000  #231,   OK @ 1037MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I17+ pid=F0(Text) len 10 
+0000  359,,1037.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I01^ pid=F0(Text) len 23 
+0000  #359,   OK @ 1037MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KI7ONW to CLAY ctl I20+ pid=F0(Text) len 10 
+0000  088,1037,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I12^ pid=F0(Text) len 23 
+0000  #088,   OK @ 1038MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I31+ pid=F0(Text) len 10 
+0000  366,,1037.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I23^ pid=F0(Text) len 23 
+0000  #366,   OK @ 1038MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KC6BSA-3 to CLAY ctl I52^ pid=F0(Text) len 13 
+0000  /r168,1015,,.
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I35^ pid=F0(Text) len 42 
+0000  Runner Search is /R###.  Example: /R001..>
+3: fm KC6BSA-3 to CLAY ctl RR6v 
+3: fm KC6BSA-3 to CLAY ctl I63^ pid=F0(Text) len 33 
+0000  dnf,168,1038,t,finish,greg mciff.
+3: fm CLAY to KC6BSA-3 ctl RR4- 
+3: fm CLAY to KC6BSA-3 ctl I46^ pid=F0(Text) len 77 
+0000  Runner 168 In Time not found.Submit In Time for runner before en
+0040  tering DNF..>
+3: fm KC6BSA-3 to CLAY ctl RR7v 
+3: fm KC6BSA-3 to CLAY ctl I74^ pid=F0(Text) len 11 
+0000  168,1015,,.
+3: fm KI7ONW to CLAY ctl I42+ pid=F0(Text) len 10 
+0000  122,1039,.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm KC6BSA-3 to CLAY ctl RR7+ 
+3: fm CLAY to KC6BSA-3 ctl I57^ pid=F0(Text) len 23 
+0000  #168,   OK @ 1039MDT..>
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm CLAY to KI7ONW ctl I34^ pid=F0(Text) len 23 
+0000  #122,   OK @ 1039MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KC6BSA-3 to CLAY ctl RR0v 
+3: fm KC6BSA-3 to CLAY ctl I05^ pid=F0(Text) len 33 
+0000  dnf,168,1038,t,finish,greg mciff.
+3: fm CLAY to KC6BSA-3 ctl RR6- 
+3: fm CLAY to KC6BSA-3 ctl I60^ pid=F0(Text) len 165 
+0000  Confirm DNF of runner 168 Gillian Soles at  Pole Line Pass. at 1
+0040  038 for TIME going to FINISH via GREG MCIFF. by entering DNFOK. 
+0080  Any other response voids DNF entry..>
+3: fm KC6BSA-3 to CLAY ctl RR1v 
+3: fm KC6BSA-3 to CLAY ctl I16^ pid=F0(Text) len 6 
+0000  dnfok.
+3: fm CLAY to KC6BSA-3 ctl RR7- 
+3: fm CLAY to KC6BSA-3 ctl I71^ pid=F0(Text) len 28 
+0000  DNF accepted at time 1040..>
+3: fm KC6BSA-3 to CLAY ctl I27^ pid=F0(Text) len 3 
+0000  /a.
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm CLAY to KC6BSA-3 ctl I02^ pid=F0(Text) len 41 
+0000   Pole Line Pass Problems at 1040 hours..>
+3: fm KC6BSA-3 to CLAY ctl RR3v 
+3: fm KC6BSA-3 to CLAY ctl I30^ pid=F0(Text) len 3 
+0000  /p.
+3: fm CLAY to KC6BSA-3 ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl I13^ pid=F0(Text) len 33 
+0000  Checkpoint L Runners Pending 0..>
+3: fm KC6BSA-3 to CLAY ctl RR4v 
+3: fm KC6BSA-3 to CLAY ctl I41^ pid=F0(Text) len 3 
+0000  /i.
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl I24^ pid=F0(Text) len 62 
+0000  Next 10 runners inbound to  Pole Line Pass as of 1041 hours..>
+3: fm KC6BSA-3 to CLAY ctl RR5v 
+3: fm KI7ONW to CLAY ctl I53+ pid=F0(Text) len 10 
+0000  122,,1043.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I45^ pid=F0(Text) len 23 
+0000  #122,   OK @ 1043MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I64+ pid=F0(Text) len 3 
+0000  /i.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I56^ pid=F0(Text) len 236 
+0000  Next 10 runners inbound to  Pot Hollow as of 1044 hours.174 Yu-Y
+0040  en Mo Projected in at 1015 hours.280 Jamen Nelson Projected in a
+0080  t 1032 hours.134 Kirk Cox Projected in at 1046 hours.165 Erin Go
+00C0  od Projected in at 1048 hours.342 Jeff Faber
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm CLAY to KI7ONW ctl I57^ pid=F0(Text) len 236 
+0000   Projected in at 1048 hours.361 Deanna McLaughlin Projected in a
+0040  t 1052 hours.301 Brian Steinberg Projected in at 1055 hours.279 
+0080  Jason Baker Projected in at 1056 hours.18 Sony Sawad Projected i
+00C0  n at 1103 hours.286 Jennifer King DeLong Pro
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm CLAY to KI7ONW ctl I50^ pid=F0(Text) len 26 
+0000  jected in at 1106 hours..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I15+ pid=F0(Text) len 3 
+0000  /p.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I61^ pid=F0(Text) len 34 
+0000  Checkpoint N Runners Pending 64..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR5+ 
+3: fm KI7ONW to CLAY ctl I26+ pid=F0(Text) len 4 
+0000  dnf.
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I72^ pid=F0(Text) len 236 
+0000  DNF (Drops) list as of 1046.2,3,10,16,20,27,28,29,31,32,35,43,44
+0040  ,46,47,48,51,56,62,70,.80,85,92,93,98,100,103,104,108,109,114,11
+0080  8,120,131,132,144,.151,159,166,167,168,178,187,193,195,198,200,2
+00C0  07,210,214,.222,223,226,229,241,244,249,250,
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 119 
+0000  263,265,271,277,278,287,.295,296,298,307,311,313,314,319,325,332
+0040  ,337,339,340,375,.377,382,384,.End of DNFs  Total:81..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I47+ pid=F0(Text) len 9 
+0000  279,1045.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I04^ pid=F0(Text) len 23 
+0000  #279,   OK @ 1046MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I50+ pid=F0(Text) len 10 
+0000  280,1046,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I15^ pid=F0(Text) len 23 
+0000  #280,   OK @ 1047MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I61+ pid=F0(Text) len 10 
+0000  342,1047,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I26^ pid=F0(Text) len 23 
+0000  #342,   OK @ 1048MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I72+ pid=F0(Text) len 11 
+0000  165,1048,,.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I37^ pid=F0(Text) len 23 
+0000  #165,   OK @ 1050MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KI7ONW to CLAY ctl I03+ pid=F0(Text) len 11 
+0000  088,,1050,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I40^ pid=F0(Text) len 23 
+0000  #088,   OK @ 1050MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KC6BSA-3 to CLAY ctl RR5+ 
+3: fm CLAY to KC6BSA-3 ctl I25^ pid=F0(Text) len 25 
+0000  1051  0 Inbound Runners.>
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl RR6v 
+3: fm KI7ONW to CLAY ctl I14+ pid=F0(Text) len 22 
+0000  279,,1050,-361,1050,,.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I51^ pid=F0(Text) len 30 
+0000  #279,  #361,   OK @ 1051MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KI7ONW to CLAY ctl I25+ pid=F0(Text) len 11 
+0000  342,,1052,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I62^ pid=F0(Text) len 23 
+0000  #342,   OK @ 1053MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I36+ pid=F0(Text) len 11 
+0000  301,1053,,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 23 
+0000  #301,   OK @ 1053MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KC6BSA-3 to CLAY ctl RR6+ 
+3: fm CLAY to KC6BSA-3 ctl RR2- 
+3: fm KI7ONW to CLAY ctl I47+ pid=F0(Text) len 10 
+0000  165,,1056.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I04^ pid=F0(Text) len 23 
+0000  #165,   OK @ 1056MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I50+ pid=F0(Text) len 3 
+0000  /w.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I15^ pid=F0(Text) len 29 
+0000  Command /W not recognized...>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I61+ pid=F0(Text) len 3 
+0000  /h.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I26^ pid=F0(Text) len 106 
+0000   Pot Hollow Runners In and NOT Out as of 1057.# 280 IN:1046.# 30
+0040  1 IN:1053.# 361 IN:1050.Total runners:3..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KC6BSA-3 to CLAY ctl I62^ pid=F0(Text) len 8 
+0000   /r328a.
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I36^ pid=F0(Text) len 236 
+0000  At 1057 hours, Runner 328 Sarah Duffy last reported.Left  Pole L
+0040  ine Pass(L) at 0841. Proj. at  Rock Springs(M) 1008..B 1016 1019
+0080  .C 1122 1125.D 1437 1452.E 1711 1718.F 1847 1910.G 2208 2226.H 0
+00C0  036 0056.I 0232 0257.J 0423 0446.K 0706 0719
+3: fm KC6BSA-3 to CLAY ctl RR7v 
+3: fm CLAY to KC6BSA-3 ctl I37^ pid=F0(Text) len 21 
+0000  .L 0834 0841.*****..>
+3: fm KC6BSA-3 to CLAY ctl RR0v 
+3: fm KI7ONW to CLAY ctl I72+ pid=F0(Text) len 11 
+0000  371,1057,,.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I37^ pid=F0(Text) len 23 
+0000  #371,   OK @ 1058MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KI7ONW to CLAY ctl I03+ pid=F0(Text) len 34 
+0000  '280,,1058,-361,,1058,-301,,1058,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I40^ pid=F0(Text) len 78 
+0000   '280 Runner number is 3 digits, PLEASE REENTER.#361,  #301,   O
+0040  K @ 1059MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I14+ pid=F0(Text) len 6 
+0000  /r280.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I51^ pid=F0(Text) len 93 
+0000  At 1059 hours, Runner 280 Jamen Nelson last reported.Arrived  Po
+0040  t Hollow (N) at 1046.*****..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KI7ONW to CLAY ctl I25+ pid=F0(Text) len 11 
+0000  280,,1058,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I62^ pid=F0(Text) len 23 
+0000  #280,   OK @ 1059MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I36+ pid=F0(Text) len 2 
+0000  h.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 236 
+0000  For a description of system changes this year: CHANGES.Before en
+0040  tering data, you must input your Checkpoint ID Letter.  Example:
+0080   CHKPT=% where % is your Checkpoint ID Letter.To get a list of C
+00C0  heckpoint letter designators:  CHKPT .Syntax
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm CLAY to KI7ONW ctl I74^ pid=F0(Text) len 236 
+0000   for input: Runner#,in time,outtime.  Example: 102,0100,0105,  S
+0040  eparator is comma or period.  One time field, in or out, is requ
+0080  ired.  Multiple records may be entered by separating them with a
+00C0   dash (-).  Example: 103,0100,0110,-104,0115
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm CLAY to KI7ONW ctl I75^ pid=F0(Text) len 236 
+0000  ,0120-105,0125.  Duplicate time records may be entered by using 
+0040  + as a separator.  Example: 235,1500+044+062 enters intime of 15
+0080  00 for all three..  Trailing comma or period on record is option
+00C0  al.  You must wait for system response befor
+3: fm CLAY to KI7ONW ctl I76^ pid=F0(Text) len 236 
+0000  e sending more data..Search request: ### or # is Runner Number, 
+0040  % is checkpoint letter.  T is local time in four digits, D is du
+0080  ration in hours.  N is two digit number, [] indicates optional e
+00C0  ntry..  If logged on at checkpoint, % is opt
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm CLAY to KI7ONW ctl I77^ pid=F0(Text) len 236 
+0000  ional for /P, /I, /A, /H, /F .  Runner: /R# (Multiple request /R
+0040  #-#-#, numbers separated by dash).  All reported times for one r
+0080  unner: /R#A.  Checkpoint List: /C[O],%,T,[D].  Current DNF list:
+00C0   DNF, Sorted by time: DNFT, Current DNS list
+3: fm CLAY to KI7ONW ctl I70^ pid=F0(Text) len 236 
+0000  : DNS.  List of Runners Still Out: /P[D][,%]   Single Record: /L
+0040  ###%.  Runner number from last name: /N,name or /N,partial*.  Ne
+0080  xt runners inbound to checkpoint: /I[,%][,N].  Checkpoint Audit 
+00C0  for missing data: /A[,%].  Runners in but no
+3: fm CLAY to KI7ONW ctl I71^ pid=F0(Text) len 236 
+0000  t out: /H[,%].  Final Check before Closing Checkpoint: /F[,%].  
+0040  Listing of Leading Runners: LEADS.  Listing of Last Runners: LAS
+0080  TS.Enter Temperature at Ckpt: TEMP=xx, Read Temps: TEMP .Delete 
+00C0  record : DELETE ###.System Status:  STATUS  
+3: fm CLAY to KI7ONW ctl I72^ pid=F0(Text) len 236 
+0000  .  Current Stations: U or USERS.Send Message: T or TELL CALLSIGN
+0040  |*|SYSOP|% [message]   Logoff: B or BYE.DNF Entry: DNF,###,dnf t
+0080  ime,code,where,how.For DNF entry details and codes, see the DNF 
+00C0  form..DNFOK to confirm when prompted, any ot
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 29 
+0000  her transmission voids dnf..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I47+ pid=F0(Text) len 3 
+0000  /h.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I04^ pid=F0(Text) len 78 
+0000   Pot Hollow Runners In and NOT Out as of 1100.# 371 IN:1057.Tota
+0040  l runners:1..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KI7ONW to CLAY ctl I50+ pid=F0(Text) len 10 
+0000  134,1059,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I15^ pid=F0(Text) len 23 
+0000  #134,   OK @ 1100MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I61+ pid=F0(Text) len 22 
+0000  371,1057,,-134,1059,,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I26^ pid=F0(Text) len 30 
+0000  #371,  #134,   OK @ 1101MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I72+ pid=F0(Text) len 22 
+0000  174,1100,,-286,1101,,.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I37^ pid=F0(Text) len 30 
+0000  #174,  #286,   OK @ 1102MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl RR0+ 
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm KI7ONW to CLAY ctl I03+ pid=F0(Text) len 11 
+0000  018,1104,,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I40^ pid=F0(Text) len 23 
+0000  #018,   OK @ 1105MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I14+ pid=F0(Text) len 6 
+0000  /r325.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I51^ pid=F0(Text) len 115 
+0000  At 1105 hours, Runner 325 Roy Van Buren last reported.DNFT CHKPT
+0040   L at time 1005 Going to FINISH Via FRIEND.*****..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl I30^ pid=F0(Text) len 25 
+0000  1108  0 Inbound Runners.>
+3: fm KC6BSA-3 to CLAY ctl RR1v 
+3: fm KI7ONW to CLAY ctl I25+ pid=F0(Text) len 11 
+0000  371,,1108,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I62^ pid=F0(Text) len 23 
+0000  #371,   OK @ 1109MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I36+ pid=F0(Text) len 11 
+0000  286,,1109,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm KI7ONW to CLAY ctl I47+ pid=F0(Text) len 11 
+0000  087,1107,,.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm KI7ONW to CLAY ctl I50+ pid=F0(Text) len 11 
+0000  204,1110,,.
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I15^ pid=F0(Text) len 23 
+0000  #204,   OK @ 1110MDT..>
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KI7ONW to CLAY ctl I61+ pid=F0(Text) len 11 
+0000  105,1111,,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KI7ONW ctl I26^ pid=F0(Text) len 23 
+0000  #105,   OK @ 1111MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm KI7ONW to CLAY ctl I72+ pid=F0(Text) len 10 
+0000  134,,1111.
+3: fm CLAY to KI7ONW ctl RR3- 
+3: fm CLAY to KI7ONW ctl I37^ pid=F0(Text) len 23 
+0000  #134,   OK @ 1112MDT..>
+3: fm KI7ONW to CLAY ctl RR0- 
+3: fm KC6BSA-3 to CLAY ctl RR1+ 
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm KI7ONW to CLAY ctl I03+ pid=F0(Text) len 11 
+0000  318,1113,,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I40^ pid=F0(Text) len 23 
+0000  #318,   OK @ 1114MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I14+ pid=F0(Text) len 10 
+0000  087,,1115.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I51^ pid=F0(Text) len 23 
+0000  #087,   OK @ 1116MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KI7ONW to CLAY ctl I25+ pid=F0(Text) len 21 
+0000  290,1115,,-318,,1116.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm CLAY to KI7ONW ctl I62^ pid=F0(Text) len 30 
+0000  #290,  #318,   OK @ 1117MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm KI7ONW to CLAY ctl I36+ pid=F0(Text) len 11 
+0000  273,1116,,.
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 23 
+0000  #273,   OK @ 1117MDT..>
+3: fm KI7ONW to CLAY ctl RR3+ 
+3: fm CLAY to KI7ONW ctl RR7- 
+3: fm CLAY to KI7ONW ctl RR7+ 
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KI7ONW ctl I73^ pid=F0(Text) len 23 
+0000  #273,   OK @ 1117MDT..>
+3: fm KI7ONW to CLAY ctl RR4- 
+3: fm KI7ONW to CLAY ctl I47+ pid=F0(Text) len 10 
+0000  290,,1117.
+3: fm CLAY to KI7ONW ctl RR0- 
+3: fm CLAY to KI7ONW ctl I04^ pid=F0(Text) len 23 
+0000  #290,   OK @ 1117MDT..>
+3: fm KI7ONW to CLAY ctl RR5- 
+3: fm KC6BSA-3 to CLAY ctl RR1+ 
+3: fm KC6BSA-3 to CLAY ctl RR1+ 
+3: fm CLAY to KC6BSA-3 ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl RR3+ 
+3: fm KC6BSA-3 to CLAY ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl I31^ pid=F0(Text) len 25 
+0000  1118  0 Inbound Runners.>
+3: fm KC6BSA-3 to CLAY ctl RR2v 
+3: fm KC6BSA-3 to CLAY ctl I23^ pid=F0(Text) len 6 
+0000  /r328.
+3: fm CLAY to KC6BSA-3 ctl RR4- 
+3: fm CLAY to KC6BSA-3 ctl I42^ pid=F0(Text) len 96 
+0000  At 1119 hours, Runner 328 Sarah Duffy last reported.Arrived  Pol
+0040  e Line Pass (L) at 0834.*****..>
+3: fm KC6BSA-3 to CLAY ctl RR3v 
+3: fm KI7ONW to CLAY ctl I50+ pid=F0(Text) len 3 
+0000  /h.
+3: fm KI7ONW to CLAY ctl RR5+ 
+3: fm KI7ONW to CLAY ctl RR5+ 
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl I15^ pid=F0(Text) len 133 
+0000   Pot Hollow Runners In and NOT Out as of 1119.# 18 IN:1104.# 105
+0040   IN:1111.# 174 IN:1100.# 204 IN:1110.# 273 IN:1116.Total runners
+0080  :5..>
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl RR1- 
+3: fm CLAY to KI7ONW ctl RR1+ 
+3: fm KI7ONW to CLAY ctl RR6- 
+3: fm KC6BSA-3 to CLAY ctl I34^ pid=F0(Text) len 35 
+0000  dnf,328,1115,m,finish,john mullmer.
+3: fm KC6BSA-3 to CLAY ctl RR3+ 
+3: fm KC6BSA-3 to CLAY ctl RR3+ 
+3: fm CLAY to KC6BSA-3 ctl RR5- 
+3: fm CLAY to KC6BSA-3 ctl RR5+ 
+3: fm KC6BSA-3 to CLAY ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl I53^ pid=F0(Text) len 168 
+0000  Confirm DNF of runner 328 Sarah Duffy at  Pole Line Pass. at 111
+0040  5 for MEDICAL going to FINISH via JOHN MULLMER. by entering DNFO
+0080  K. Any other response voids DNF entry..>
+3: fm KC6BSA-3 to CLAY ctl RR4v 
+3: fm KC6BSA-3 to CLAY ctl I45^ pid=F0(Text) len 6 
+0000  dnfok.
+3: fm KI7ONW to CLAY ctl I61+ pid=F0(Text) len 11 
+0000  177,1120,,.
+3: fm CLAY to KI7ONW ctl RR2- 
+3: fm CLAY to KC6BSA-3 ctl RR6- 
+3: fm CLAY to KI7ONW ctl I26^ pid=F0(Text) len 23 
+0000  #177,   OK @ 1120MDT..>
+3: fm KI7ONW to CLAY ctl RR7- 
+3: fm CLAY to KC6BSA-3 ctl I64^ pid=F0(Text) len 28 
+0000  DNF accepted at time 1120..>
+3: fm KC6BSA-3 to CLAY ctl RR5v 
+3: fm KC6BSA-3 to CLAY ctl I56^ pid=F0(Text) len 3 
+0000  /a.
+3: fm CLAY to KC6BSA-3 ctl RR7- 
+3: fm CLAY to KC6BSA-3 ctl I75^ pid=F0(Text) len 41 
+0000   Pole Line Pass Problems at 1120 hours..>
+3: fm KC6BSA-3 to CLAY ctl RR6v 
+3: fm KI7ONW to CLAY ctl I03+ pid=F0(Text) len 22 
+0000  273,,1121,-105,,1121,.
+3: fm CLAY to KI7ONW ctl RR4- 
+3: fm CLAY to KI7ONW ctl I40^ pid=F0(Text) len 30 
+0000  #273,  #105,   OK @ 1122MDT..>
+3: fm KI7ONW to CLAY ctl RR1- 
+3: fm KI7ONW to CLAY ctl I14+ pid=F0(Text) len 22 
+0000  348,1121,,-341,1122,,.
+3: fm CLAY to KI7ONW ctl RR5- 
+3: fm CLAY to KI7ONW ctl I51^ pid=F0(Text) len 30 
+0000  #348,  #341,   OK @ 1123MDT..>
+3: fm KI7ONW to CLAY ctl RR2- 
+3: fm KC6BSA-3 to CLAY ctl I67^ pid=F0(Text) len 5 
+0000  exit.
+3: fm CLAY to KC6BSA-3 ctl RR0- 
+3: fm CLAY to KC6BSA-3 ctl I06^ pid=F0(Text) len 23 
+0000  "EXIT" Input Ignored..>
+3: fm KI7ONW to CLAY ctl I25+ pid=F0(Text) len 11 
+0000  391,1123,,.
+3: fm CLAY to KI7ONW ctl RR6- 
+3: fm KC6BSA-3 to CLAY ctl RR7v 
+3: fm KC6BSA-3 to CLAY ctl I70^ pid=F0(Text) len 4 
+0000  bye.
+3: fm CLAY to KI7ONW ctl I62^ pid=F0(Text) len 23 
+0000  #391,   OK @ 1124MDT..>
+3: fm KI7ONW to CLAY ctl RR3- 
+3: fm CLAY to KC6BSA-3 ctl RR1- 
+3: fm CLAY to KC6BSA-3 ctl I17^ pid=F0(Text) len 16 
+0000  Disconnecting..>
+3: fm KC6BSA-3 to CLAY ctl RR0v 
+3: fm CLAY to KC6BSA-3 ctl DISC+ 
+3: fm KC6BSA-3 to CLAY ctl UA- 

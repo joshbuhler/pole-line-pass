@@ -1,0 +1,156 @@
+CLAY:KD0J-4} Connected to RACE:KD0J-7
+Connected to Wasatch 100 Database, Compiled 9/3/2019
+Sysop Status Messages
+Welcome to the 2019 Wasatch 100 Race Database
+Clayton Peak Packet nodes on 144.91, 145.53, 145.09. 
+Use whichever works best for you.
+Telnet to w100.ke7bme.com port 8010
+.
+
+
+
+>KC6BSA-3 logged in at  Pole Line Pass
+
+>INVALID CHECKPOINT LETTER
+
+>Leader list as of 1949 hours
+1 360 Gediminas Grinius out  Ant Knolls 1939 hours
+2 93 Ford Smith out  Brighton Lodge 1831 hours
+3 266 Carlos Ruibal out  Brighton Lodge 1930 hours
+4 189 Ryan Weibel out  Brighton Lodge 1946 hours
+5 47 Nick Gaitan in  Brighton Lodge 1922 hours
+6 253 Ian Farris out  Scott's Peak 1904 hours
+7 107 Logan Williams out  Scott's Peak 1911 hours
+8 239 Alex Gold out  Scott's Peak 1923 hours
+9 380 Kyle Markisich out  Scott's Peak 1923 hours
+10 160 James Macdonald out  Scott's Peak 1925 hours
+Female Leaders
+1 396 Teresa Kaiser out  Scott's Peak 1927 hours
+2 143 Jessi Morton-Langehaug out  Desolation Lake 1851 hours
+3 199 Maria Steinhauser out  Desolation Lake 1913 hours
+4 113 Elizabeth Butler out  Desolation Lake 1928 hours
+5 188 Abby Rideout out  Upper Big Water 1838 hours
+
+>Reported Temperatures
+ Alexander Ridge  Temp. = 84 at 1606
+ Lamb's Canyon  Temp. = 89 at 1624
+ Scott's Peak  Temp. = 55 at 1942
+ Brighton Lodge  Temp. = 57 at 1949
+
+>2141  262 Inbound Runners
+>2151  261 Inbound Runners
+>#047,   OK @ 2151MDT
+
+>#189,   OK @ 2152MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2153 hours
+253 Ian Farris Projected in at 2206 hours
+107 Logan Williams Projected in at 2222 hours
+380 Kyle Markisich Projected in at 2224 hours
+239 Alex Gold Projected in at 2240 hours
+396 Teresa Kaiser Projected in at 2241 hours
+160 James Macdonald Projected in at 2242 hours
+
+>#189,   OK @ 2155MDT
+
+>#253,   OK @ 2203MDT
+
+>#253,   OK @ 2205MDT
+
+>2215  258 Inbound Runners
+>#380,   OK @ 2221MDT
+
+>#380,   OK @ 2225MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2231 hours
+107 Logan Williams Projected in at 2222 hours
+239 Alex Gold Projected in at 2240 hours
+396 Teresa Kaiser Projected in at 2241 hours
+160 James Macdonald Projected in at 2242 hours
+158 Micah Morgan Projected in at 2254 hours
+209 Brian Culmo Projected in at 2302 hours
+312 Christian Hampshire Projected in at 2303 hours
+175 Andy Lefriec Projected in at 2310 hours
+321 Grant Barnette Projected in at 2324 hours
+
+>#107,   OK @ 2236MDT
+
+>BARNEY, KATIE 204
+
+BARLOW, TOMMY 275
+
+BARCLAY, GNARLS 284
+
+BARNETTE, GRANT 321
+
+BARNES, DESIREE 327
+
+BARNETT, DANIEL 368
+
+BARNEY, ANDREW 371
+
+
+
+>At 2239 hours, Runner 371 Andrew Barney last reported
+Left  Lamb's Canyon(F) at 2019. Proj. at  Upper Big Water(G) 2345.
+B 1018 1019
+C 1134 1141
+D 1518 1534
+E 1801 1810
+F 1950 2019
+*****
+
+>#396,   OK @ 2243MDT
+
+>#160,   OK @ 2243MDT
+
+>DNF (Drops) list as of 2244
+2,3,16,27,28,31,44,56,62,70,80,100,103,104,108,109,114,118,
+120,131,132,144,151,167,193,214,223,229,244,250,263,271,
+277,307,313,314,332,337,339,340,382,
+End of DNFs  Total:41
+
+>#160,   OK @ 2244MDT
+
+>#107,   OK @ 2246MDT
+
+>#396,   OK @ 2247MDT
+
+>#239,   OK @ 2247MDT
+
+>#158,   OK @ 2255MDT
+
+>#312,   OK @ 2257MDT
+
+>#158,   OK @ 2258MDT
+
+>#312,   OK @ 2301MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2304 hours
+209 Brian Culmo Projected in at 2302 hours
+175 Andy Lefriec Projected in at 2310 hours
+321 Grant Barnette Projected in at 2324 hours
+143 Jessi Morton-Langehaug Projected in at 2326 hours
+335 Nathan Williams Projected in at 2329 hours
+281 Tyler Waterhouse Projected in at 2339 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+
+>#175,   OK @ 2304MDT
+
+>#175,   OK @ 2308MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2309 hours
+209 Brian Culmo Projected in at 2302 hours
+321 Grant Barnette Projected in at 2324 hours
+143 Jessi Morton-Langehaug Projected in at 2326 hours
+335 Nathan Williams Projected in at 2329 hours
+281 Tyler Waterhouse Projected in at 2339 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+
+>#209,   OK @ 2311MDT
+
+>

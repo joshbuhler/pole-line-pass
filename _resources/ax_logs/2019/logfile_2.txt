@@ -1,0 +1,965 @@
+CLAY:KD0J-4} Connected to RACE:KD0J-7
+Connected to Wasatch 100 Database, Compiled 9/3/2019
+Sysop Status Messages
+Welcome to the 2019 Wasatch 100 Race Database
+Clayton Peak Packet nodes on 144.91, 145.53, 145.09. 
+Use whichever works best for you.
+Telnet to w100.ke7bme.com port 8010
+.
+
+
+
+>KC6BSA-3 logged in at  Pole Line Pass
+
+>INVALID CHECKPOINT LETTER
+
+>Leader list as of 1949 hours
+1 360 Gediminas Grinius out  Ant Knolls 1939 hours
+2 93 Ford Smith out  Brighton Lodge 1831 hours
+3 266 Carlos Ruibal out  Brighton Lodge 1930 hours
+4 189 Ryan Weibel out  Brighton Lodge 1946 hours
+5 47 Nick Gaitan in  Brighton Lodge 1922 hours
+6 253 Ian Farris out  Scott's Peak 1904 hours
+7 107 Logan Williams out  Scott's Peak 1911 hours
+8 239 Alex Gold out  Scott's Peak 1923 hours
+9 380 Kyle Markisich out  Scott's Peak 1923 hours
+10 160 James Macdonald out  Scott's Peak 1925 hours
+Female Leaders
+1 396 Teresa Kaiser out  Scott's Peak 1927 hours
+2 143 Jessi Morton-Langehaug out  Desolation Lake 1851 hours
+3 199 Maria Steinhauser out  Desolation Lake 1913 hours
+4 113 Elizabeth Butler out  Desolation Lake 1928 hours
+5 188 Abby Rideout out  Upper Big Water 1838 hours
+
+>Reported Temperatures
+ Alexander Ridge  Temp. = 84 at 1606
+ Lamb's Canyon  Temp. = 89 at 1624
+ Scott's Peak  Temp. = 55 at 1942
+ Brighton Lodge  Temp. = 57 at 1949
+
+>2141  262 Inbound Runners
+>2151  261 Inbound Runners
+>#047,   OK @ 2151MDT
+
+>#189,   OK @ 2152MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2153 hours
+253 Ian Farris Projected in at 2206 hours
+107 Logan Williams Projected in at 2222 hours
+380 Kyle Markisich Projected in at 2224 hours
+239 Alex Gold Projected in at 2240 hours
+396 Teresa Kaiser Projected in at 2241 hours
+160 James Macdonald Projected in at 2242 hours
+
+>#189,   OK @ 2155MDT
+
+>#253,   OK @ 2203MDT
+
+>#253,   OK @ 2205MDT
+
+>2215  258 Inbound Runners
+>#380,   OK @ 2221MDT
+
+>#380,   OK @ 2225MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2231 hours
+107 Logan Williams Projected in at 2222 hours
+239 Alex Gold Projected in at 2240 hours
+396 Teresa Kaiser Projected in at 2241 hours
+160 James Macdonald Projected in at 2242 hours
+158 Micah Morgan Projected in at 2254 hours
+209 Brian Culmo Projected in at 2302 hours
+312 Christian Hampshire Projected in at 2303 hours
+175 Andy Lefriec Projected in at 2310 hours
+321 Grant Barnette Projected in at 2324 hours
+
+>#107,   OK @ 2236MDT
+
+>BARNEY, KATIE 204
+
+BARLOW, TOMMY 275
+
+BARCLAY, GNARLS 284
+
+BARNETTE, GRANT 321
+
+BARNES, DESIREE 327
+
+BARNETT, DANIEL 368
+
+BARNEY, ANDREW 371
+
+
+
+>At 2239 hours, Runner 371 Andrew Barney last reported
+Left  Lamb's Canyon(F) at 2019. Proj. at  Upper Big Water(G) 2345.
+B 1018 1019
+C 1134 1141
+D 1518 1534
+E 1801 1810
+F 1950 2019
+*****
+
+>#396,   OK @ 2243MDT
+
+>#160,   OK @ 2243MDT
+
+>DNF (Drops) list as of 2244
+2,3,16,27,28,31,44,56,62,70,80,100,103,104,108,109,114,118,
+120,131,132,144,151,167,193,214,223,229,244,250,263,271,
+277,307,313,314,332,337,339,340,382,
+End of DNFs  Total:41
+
+>#160,   OK @ 2244MDT
+
+>#107,   OK @ 2246MDT
+
+>#396,   OK @ 2247MDT
+
+>#239,   OK @ 2247MDT
+
+>#158,   OK @ 2255MDT
+
+>#312,   OK @ 2257MDT
+
+>#158,   OK @ 2258MDT
+
+>#312,   OK @ 2301MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2304 hours
+209 Brian Culmo Projected in at 2302 hours
+175 Andy Lefriec Projected in at 2310 hours
+321 Grant Barnette Projected in at 2324 hours
+143 Jessi Morton-Langehaug Projected in at 2326 hours
+335 Nathan Williams Projected in at 2329 hours
+281 Tyler Waterhouse Projected in at 2339 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+
+>#175,   OK @ 2304MDT
+
+>#175,   OK @ 2308MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2309 hours
+209 Brian Culmo Projected in at 2302 hours
+321 Grant Barnette Projected in at 2324 hours
+143 Jessi Morton-Langehaug Projected in at 2326 hours
+335 Nathan Williams Projected in at 2329 hours
+281 Tyler Waterhouse Projected in at 2339 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+
+>#209,   OK @ 2311MDT
+
+>#209,   OK @ 2319MDT
+
+>#089,   OK @ 2326MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2326 hours
+321 Grant Barnette Projected in at 2324 hours
+143 Jessi Morton-Langehaug Projected in at 2326 hours
+335 Nathan Williams Projected in at 2329 hours
+281 Tyler Waterhouse Projected in at 2339 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+133 Steve Liechty Projected in at 0014 hours
+393 Tyler Hall Projected in at 0014 hours
+386 Shane Martin Projected in at 0017 hours
+
+>#321,   OK @ 2327MDT
+
+>#335,   OK @ 2327MDT
+
+>#143,   OK @ 2328MDT
+
+>2338  241 Inbound Runners
+>#281,   OK @ 2340MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 2340 hours
+322 Jonathan Crawley Projected in at 2339 hours
+264 Neil Campbell Projected in at 2341 hours
+285 Jay Aldous Projected in at 2353 hours
+133 Steve Liechty Projected in at 0014 hours
+393 Tyler Hall Projected in at 0014 hours
+386 Shane Martin Projected in at 0017 hours
+289 Bertram Johnson Projected in at 0022 hours
+199 Maria Steinhauser Projected in at 0028 hours
+188 Abby Rideout Projected in at 0030 hours
+73 Jonah Brown Projected in at 0036 hours
+
+>#322,   OK @ 2342MDT
+
+>#264,   OK @ 2342MDT
+
+>2352  238 Inbound Runners
+>#285,   OK @ 0000MDT
+
+>Reported Temperatures
+ Alexander Ridge  Temp. = 84 at 1606
+ Lamb's Canyon  Temp. = 89 at 1624
+ Scott's Peak  Temp. = 48 at 2302
+ Brighton Lodge  Temp. = 49 at 2104
+ Decker Canyon  Temp. = 57 at 2147
+
+>Leader list as of 0003 hours
+1 360 Gediminas Grinius out  Staton 0000 hours
+2 93 Ford Smith out  Pot Hollow 2324 hours
+3 266 Carlos Ruibal out  Pot Hollow 2341 hours
+4 47 Nick Gaitan out  Rock Springs 2254 hours
+5 189 Ryan Weibel out  Rock Springs 2310 hours
+6 253 Ian Farris out  Rock Springs 2310 hours
+7 380 Kyle Markisich out  Rock Springs 2326 hours
+8 396 Teresa Kaiser out  Rock Springs 2358 hours
+9 160 James Macdonald out  Rock Springs 2359 hours
+10 107 Logan Williams out  Pole Line Pass 2246 hours
+Female Leaders
+1 396 Teresa Kaiser out  Rock Springs 2358 hours
+2 143 Jessi Morton-Langehaug out  Pole Line Pass 2328 hours
+3 199 Maria Steinhauser out  Ant Knolls 2330 hours
+4 188 Abby Rideout out  Ant Knolls 2332 hours
+5 113 Elizabeth Butler out  Ant Knolls 2358 hours
+
+> Pole Line Pass Temp reported 60 at 0004
+
+>Next 10 runners inbound to  Pole Line Pass as of 0005 hours
+133 Steve Liechty Projected in at 0014 hours
+393 Tyler Hall Projected in at 0014 hours
+386 Shane Martin Projected in at 0017 hours
+289 Bertram Johnson Projected in at 0022 hours
+199 Maria Steinhauser Projected in at 0028 hours
+188 Abby Rideout Projected in at 0030 hours
+73 Jonah Brown Projected in at 0036 hours
+242 Justin Kinner Projected in at 0039 hours
+329 Cameron Kasteler Projected in at 0039 hours
+316 Jason Eichhorst Projected in at 0040 hours
+
+>#393,   OK @ 0006MDT
+
+> Pole Line Pass Temp reported 59 at 0009
+
+>Reported Temperatures
+ Alexander Ridge  Temp. = 84 at 1606
+ Lamb's Canyon  Temp. = 89 at 1624
+ Scott's Peak  Temp. = 48 at 2302
+ Brighton Lodge  Temp. = 49 at 2104
+ Pole Line Pass  Temp. = 59 at 0009
+ Decker Canyon  Temp. = 57 at 2147
+
+>#133,   OK @ 0010MDT
+
+> Pole Line Pass Temp reported 57 at 0015
+
+>#386,   OK @ 0016MDT
+
+>BARNEY, KATIE 204
+
+BARNEY, ANDREW 371
+
+
+
+>At 0019 hours, Runner 371 Andrew Barney last reported
+Left  Upper Big Water(G) at 2320. Proj. at  Desolation Lake(H) 0127.
+*****
+
+>Next 10 runners inbound to  Pole Line Pass as of 0020 hours
+289 Bertram Johnson Projected in at 0022 hours
+199 Maria Steinhauser Projected in at 0028 hours
+188 Abby Rideout Projected in at 0030 hours
+73 Jonah Brown Projected in at 0036 hours
+242 Justin Kinner Projected in at 0039 hours
+329 Cameron Kasteler Projected in at 0039 hours
+316 Jason Eichhorst Projected in at 0040 hours
+41 Luke Bateman Projected in at 0043 hours
+148 Thad Kendell Projected in at 0043 hours
+217 Douglas Lewis Projected in at 0051 hours
+
+>#289,   OK @ 0026MDT
+
+>#386,   OK @ 0026MDT
+
+>#188,   OK @ 0026MDT
+
+> Pole Line Pass Temp reported 55 at 0027
+
+>#329,   OK @ 0032MDT
+
+>Runner LIGHT not found
+
+>Runner LITE not found
+
+>#242,  #073,   OK @ 0035MDT
+
+>#316,   OK @ 0036MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0037 hours
+199 Maria Steinhauser Projected in at 0028 hours
+41 Luke Bateman Projected in at 0043 hours
+148 Thad Kendell Projected in at 0043 hours
+217 Douglas Lewis Projected in at 0051 hours
+113 Elizabeth Butler Projected in at 0056 hours
+17 Matthew Van Horn Projected in at 0103 hours
+201 Jake Kilgore Projected in at 0110 hours
+37 Philip Sanderson Projected in at 0111 hours
+83 Adam St.Pierre Projected in at 0126 hours
+72 Jenny Fox Projected in at 0127 hours
+
+>#199,   OK @ 0038MDT
+
+>At 0041 hours, Runner 199 Maria Steinhauser last reported
+Left  Pole Line Pass(L) at 0038. Proj. at  Rock Springs(M) 0155.
+*****
+
+>#148,   OK @ 0043MDT
+
+> Pole Line Pass Problems at 0043 hours
+
+>At 0044 hours, Runner 017 Matthew Van Horn last reported
+Left  Ant Knolls(K) at 0006. Proj. at  Pole Line Pass(L) 0103.
+*****
+
+>#041,   OK @ 0045MDT
+
+>#017,   OK @ 0051MDT
+
+>#217,   OK @ 0054MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0054 hours
+113 Elizabeth Butler Projected in at 0056 hours
+201 Jake Kilgore Projected in at 0110 hours
+37 Philip Sanderson Projected in at 0111 hours
+83 Adam St.Pierre Projected in at 0126 hours
+72 Jenny Fox Projected in at 0127 hours
+173 Scott Zipprich Projected in at 0128 hours
+395 Scott Wesemann Projected in at 0129 hours
+29 Mayuko Floyd Projected in at 0130 hours
+81 Jonathan Scoville Projected in at 0133 hours
+323 Chris Tommila Projected in at 0134 hours
+
+> Pole Line Pass Temp reported 53 at 0104
+
+>Reported Temperatures
+ Alexander Ridge  Temp. = 84 at 1606
+ Lamb's Canyon  Temp. = 89 at 1624
+ Scott's Peak  Temp. = 48 at 2302
+ Brighton Lodge  Temp. = 49 at 2104
+ Pole Line Pass  Temp. = 53 at 0104
+ Decker Canyon  Temp. = 57 at 2147
+
+>At 0106 hours, Runner 404  no times reported
+
+>#113,   OK @ 0115MDT
+
+>#201,   OK @ 0116MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0116 hours
+37 Philip Sanderson Projected in at 0111 hours
+83 Adam St.Pierre Projected in at 0126 hours
+72 Jenny Fox Projected in at 0127 hours
+173 Scott Zipprich Projected in at 0128 hours
+395 Scott Wesemann Projected in at 0129 hours
+29 Mayuko Floyd Projected in at 0130 hours
+81 Jonathan Scoville Projected in at 0133 hours
+323 Chris Tommila Projected in at 0134 hours
+284 Gnarls Barclay Projected in at 0140 hours
+381 Steve Newman Projected in at 0145 hours
+
+>#323,   OK @ 0126MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0127 hours
+37 Philip Sanderson Projected in at 0111 hours
+83 Adam St.Pierre Projected in at 0126 hours
+72 Jenny Fox Projected in at 0127 hours
+173 Scott Zipprich Projected in at 0128 hours
+395 Scott Wesemann Projected in at 0129 hours
+29 Mayuko Floyd Projected in at 0130 hours
+81 Jonathan Scoville Projected in at 0133 hours
+284 Gnarls Barclay Projected in at 0140 hours
+381 Steve Newman Projected in at 0145 hours
+64 Brianna Tidd Projected in at 0150 hours
+
+>#395,   OK @ 0127MDT
+
+>#395,   OK @ 0128MDT
+
+>#081,  #019,   OK @ 0132MDT
+
+>#072,   OK @ 0132MDT
+
+> Pole Line Pass Problems at 0138 hours
+
+>At 0139 hours, Runner 300 Bree Lambert last reported
+Arrived  Ant Knolls (K) at 0029
+*****
+
+>Leader list as of 0144 hours
+1 360 Gediminas Grinius out  Decker Canyon 0052 hours
+2 266 Carlos Ruibal out  Decker Canyon 0139 hours
+3 93 Ford Smith out  Pot Hollow 2324 hours
+4 189 Ryan Weibel out  Pot Hollow 0039 hours
+5 253 Ian Farris out  Pot Hollow 0041 hours
+6 380 Kyle Markisich out  Pot Hollow 0050 hours
+7 160 James Macdonald out  Pot Hollow 0135 hours
+8 396 Teresa Kaiser out  Pot Hollow 0135 hours
+9 47 Nick Gaitan in  Pot Hollow 0138 hours
+10 175 Andy Lefriec out  Rock Springs 0009 hours
+Female Leaders
+1 396 Teresa Kaiser out  Pot Hollow 0135 hours
+2 143 Jessi Morton-Langehaug out  Rock Springs 0051 hours
+3 188 Abby Rideout out  Rock Springs 0131 hours
+4 199 Maria Steinhauser out  Pole Line Pass 0038 hours
+5 113 Elizabeth Butler out  Pole Line Pass 0111 hours
+
+>At 0144 hours, Runner 360 Gediminas Grinius last reported
+Left  Decker Canyon(P) at 0052. Proj. at  Soldier Hollow(Q) 0201.
+*****
+
+>Next 10 runners inbound to  Pole Line Pass as of 0145 hours
+37 Philip Sanderson Projected in at 0111 hours
+83 Adam St.Pierre Projected in at 0126 hours
+173 Scott Zipprich Projected in at 0128 hours
+29 Mayuko Floyd Projected in at 0130 hours
+284 Gnarls Barclay Projected in at 0140 hours
+381 Steve Newman Projected in at 0145 hours
+64 Brianna Tidd Projected in at 0150 hours
+11 Deanna Morley Projected in at 0152 hours
+320 Daniel Wadley Projected in at 0155 hours
+59 Brad Peterson Projected in at 0211 hours
+
+>#083,  #300,   OK @ 0146MDT
+
+>At 0149 hours, Runner 300 Bree Lambert last reported
+Left  Pole Line Pass(L) at 0146. Proj. at  Rock Springs(M) 0307.
+*****
+
+>At 0151 hours, Runner 371 Andrew Barney last reported
+Left  Desolation Lake(H) at 0120. Proj. at  Scott's Peak(I) 0254.
+*****
+
+>DNS (Not Started) list as of 0153
+4,14,15,21,22,23,25,26,30,33,36,39,40,49,52,53,54,58,63,
+68,71,86,91,94,102,106,110,117,123,127,128,129,130,136,137,
+142,145,147,149,155,157,162,163,172,179,183,184,186,194,
+196,202,205,206,208,213,215,220,221,228,235,238,240,245,
+248,252,254,256,257,258,261,262,282,294,297,302,303,306,
+308,315,317,326,333,343,346,347,349,351,353,363,368,370,
+376,378,387,390,
+End of DNSs  Total:95
+
+>#284,  #011,   OK @ 0158MDT
+
+>#320,   OK @ 0203MDT
+
+>#381,   OK @ 0206MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0207 hours
+37 Philip Sanderson Projected in at 0111 hours
+173 Scott Zipprich Projected in at 0128 hours
+29 Mayuko Floyd Projected in at 0130 hours
+64 Brianna Tidd Projected in at 0150 hours
+59 Brad Peterson Projected in at 0211 hours
+237 Matthew Lunger Projected in at 0211 hours
+101 Francesca Conte Projected in at 0212 hours
+164 Dustin Sandquist Projected in at 0223 hours
+354 Drew Adams Projected in at 0223 hours
+373 Carter Williams Projected in at 0223 hours
+
+>DNF (Drops) list as of 0207
+2,3,16,27,28,31,32,35,44,56,62,70,80,100,103,104,108,109,
+114,118,120,131,132,144,151,159,166,167,193,214,222,223,
+229,241,244,250,263,271,277,295,298,307,313,314,332,337,
+339,340,382,
+End of DNFs  Total:49
+
+>Next 10 runners inbound to  Pole Line Pass as of 0208 hours
+37 Philip Sanderson Projected in at 0111 hours
+173 Scott Zipprich Projected in at 0128 hours
+29 Mayuko Floyd Projected in at 0130 hours
+64 Brianna Tidd Projected in at 0150 hours
+59 Brad Peterson Projected in at 0211 hours
+237 Matthew Lunger Projected in at 0211 hours
+101 Francesca Conte Projected in at 0212 hours
+164 Dustin Sandquist Projected in at 0223 hours
+354 Drew Adams Projected in at 0223 hours
+373 Carter Williams Projected in at 0223 hours
+
+>#237,   OK @ 0213MDT
+
+>#064,   OK @ 0216MDT
+
+> Pole Line Pass Problems at 0216 hours
+
+>#101,   OK @ 0219MDT
+
+>#275,   OK @ 0226MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0228 hours
+37 Philip Sanderson Projected in at 0111 hours
+173 Scott Zipprich Projected in at 0128 hours
+59 Brad Peterson Projected in at 0211 hours
+164 Dustin Sandquist Projected in at 0223 hours
+354 Drew Adams Projected in at 0223 hours
+373 Carter Williams Projected in at 0223 hours
+338 Todd Newman Projected in at 0235 hours
+1 Sarah McCloskey Projected in at 0239 hours
+139 Conrad Tallackson Projected in at 0240 hours
+38 Alex Matteson Projected in at 0244 hours
+
+>#037,   OK @ 0230MDT
+
+>#373,   OK @ 0230MDT
+
+>#173,   OK @ 0230MDT
+
+>#230,   OK @ 0230MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0230 hours
+59 Brad Peterson Projected in at 0211 hours
+164 Dustin Sandquist Projected in at 0223 hours
+354 Drew Adams Projected in at 0223 hours
+338 Todd Newman Projected in at 0235 hours
+1 Sarah McCloskey Projected in at 0239 hours
+139 Conrad Tallackson Projected in at 0240 hours
+38 Alex Matteson Projected in at 0244 hours
+170 Barrett Langton Projected in at 0245 hours
+191 Virgil Bretz Projected in at 0253 hours
+90 Spenser Snow Canada Projected in at 0256 hours
+
+>#037,  #230,   OK @ 0233MDT
+
+> Pole Line Pass Problems at 0235 hours
+
+>#373,  #338,   OK @ 0240MDT
+
+>At 0241 hours, Runner 381 Steve Newman last reported
+Left  Pole Line Pass(L) at 0206. Proj. at  Rock Springs(M) 0330.
+*****
+
+>At 0241 hours, Runner 029 Mayuko Floyd last reported
+Left  Desolation Lake(H) at 0235. Proj. at  Scott's Peak(I) 0413.
+*****
+
+>Next 10 runners inbound to  Pole Line Pass as of 0242 hours
+59 Brad Peterson Projected in at 0211 hours
+164 Dustin Sandquist Projected in at 0223 hours
+354 Drew Adams Projected in at 0223 hours
+1 Sarah McCloskey Projected in at 0239 hours
+139 Conrad Tallackson Projected in at 0240 hours
+38 Alex Matteson Projected in at 0244 hours
+170 Barrett Langton Projected in at 0245 hours
+191 Virgil Bretz Projected in at 0253 hours
+90 Spenser Snow Canada Projected in at 0256 hours
+304 Dan Kadrmas Projected in at 0315 hours
+
+>#170,   OK @ 0244MDT
+
+> Pole Line Pass Problems at 0244 hours
+
+>#173,   OK @ 0244MDT
+
+>#354,   OK @ 0244MDT
+
+>In time disagrees! #354,L,0225
+
+>Runner 354 times at L deleted
+
+>#354,   OK @ 0245MDT
+
+>#038,   OK @ 0245MDT
+
+>#164,   OK @ 0246MDT
+
+>#192,   OK @ 0246MDT
+
+>#038,   OK @ 0246MDT
+
+>#164,   OK @ 0247MDT
+
+>#354,  #192,   OK @ 0255MDT
+
+>0305  183 Inbound Runners
+>#001,  #139,   OK @ 0306MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0308 hours
+59 Brad Peterson Projected in at 0211 hours
+191 Virgil Bretz Projected in at 0253 hours
+90 Spenser Snow Canada Projected in at 0256 hours
+304 Dan Kadrmas Projected in at 0315 hours
+111 Andrew Baum Projected in at 0317 hours
+270 Rob Wade Projected in at 0317 hours
+124 Jeremy Freeman Projected in at 0323 hours
+24 Brett Wilson Projected in at 0343 hours
+180 Emma Giebler Projected in at 0345 hours
+212 Holly Trapp Projected in at 0346 hours
+
+>#059,   OK @ 0312MDT
+
+>#191,   OK @ 0313MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0313
+# 59 IN:0304
+# 173 IN:0220
+# 191 IN:0307
+Total runners:3
+
+>#090,   OK @ 0314MDT
+
+>At 0314 hours, Runner 029 Mayuko Floyd last reported
+Left  Desolation Lake(H) at 0235. Proj. at  Scott's Peak(I) 0413.
+*****
+
+>#181,   OK @ 0316MDT
+
+> 304 In-Time is 4 digits, PLEASE REENTER
+#191,   OK @ 0317MDT
+
+>#124,   OK @ 0318MDT
+
+>#111,   OK @ 0318MDT
+
+>#082,   OK @ 0318MDT
+
+>In time disagrees! #111,L,0318
+
+>At 0319 hours, Runner 111 Andrew Baum last reported
+Arrived  Pole Line Pass (L) at 0318
+*****
+
+>#191,   OK @ 0321MDT
+
+>#124,   OK @ 0322MDT
+
+>#111,   OK @ 0322MDT
+
+>#304,   OK @ 0323MDT
+
+>#079,   OK @ 0323MDT
+
+>Runner 111 times at L deleted
+
+>#111,   OK @ 0325MDT
+
+>#082,   OK @ 0325MDT
+
+> 304 Out-Time is 4 digits, PLEASE REENTER
+
+>#304,   OK @ 0327MDT
+
+>BARNEY, KATIE 204
+
+BARNEY, ANDREW 371
+
+
+
+>#090,   OK @ 0328MDT
+
+>At 0330 hours, Runner 371 Andrew Barney last reported
+Left  Desolation Lake(H) at 0120. Proj. at  Scott's Peak(I) 0254.
+*****
+
+>#270,   OK @ 0333MDT
+
+> 079 Out-Time is 4 digits, PLEASE REENTER
+
+>#079,   OK @ 0334MDT
+
+>#154,  #024,   OK @ 0339MDT
+
+>#305,   OK @ 0340MDT
+
+>#024,   OK @ 0341MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0341 hours
+180 Emma Giebler Projected in at 0345 hours
+212 Holly Trapp Projected in at 0346 hours
+121 Mandy Geisler Projected in at 0353 hours
+259 Kristen Kovatch Projected in at 0400 hours
+334 Mikal Epperson Projected in at 0409 hours
+224 Greg Jackson Projected in at 0417 hours
+327 Desiree Barnes Projected in at 0417 hours
+171 Jeff Galloway Projected in at 0420 hours
+292 Jeff Stephens Projected in at 0421 hours
+57 Andrew Cornelia Projected in at 0424 hours
+
+>#212,   OK @ 0345MDT
+
+>#180,   OK @ 0346MDT
+
+>#066,   OK @ 0347MDT
+
+>At 0347 hours, Runner 024 Brett Wilson last reported
+Left  Pole Line Pass(L) at 0341. Proj. at  Rock Springs(M) 0507.
+*****
+
+> Pole Line Pass Runners In and NOT Out as of 0348
+# 59 IN:0304
+# 66 IN:0346
+# 154 IN:0337
+# 173 IN:0220
+# 180 IN:0346
+# 181 IN:0315
+# 212 IN:0344
+# 270 IN:0333
+# 305 IN:0340
+Total runners:9
+
+>#305,  #154,   OK @ 0348MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0350 hours
+121 Mandy Geisler Projected in at 0353 hours
+259 Kristen Kovatch Projected in at 0400 hours
+334 Mikal Epperson Projected in at 0409 hours
+224 Greg Jackson Projected in at 0417 hours
+327 Desiree Barnes Projected in at 0417 hours
+171 Jeff Galloway Projected in at 0420 hours
+292 Jeff Stephens Projected in at 0421 hours
+57 Andrew Cornelia Projected in at 0424 hours
+219 Robert Dailey Projected in at 0424 hours
+276 Alison Memmott Projected in at 0428 hours
+
+>#270,   OK @ 0351MDT
+
+>#212,   OK @ 0357MDT
+
+>#180,   OK @ 0358MDT
+
+>#066,   OK @ 0358MDT
+
+>At 0358 hours, Runner 301 Brian Steinberg last reported
+Left  Brighton Lodge(J) at 0341. Proj. at  Ant Knolls(K) 0549.
+*****
+
+>#299,   OK @ 0359MDT
+
+>#374,   OK @ 0400MDT
+
+>#394,   OK @ 0400MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0402 hours
+121 Mandy Geisler Projected in at 0353 hours
+259 Kristen Kovatch Projected in at 0400 hours
+334 Mikal Epperson Projected in at 0409 hours
+224 Greg Jackson Projected in at 0417 hours
+327 Desiree Barnes Projected in at 0417 hours
+171 Jeff Galloway Projected in at 0420 hours
+292 Jeff Stephens Projected in at 0421 hours
+57 Andrew Cornelia Projected in at 0424 hours
+219 Robert Dailey Projected in at 0424 hours
+276 Alison Memmott Projected in at 0428 hours
+
+>#336,   OK @ 0403MDT
+
+>#005,   OK @ 0404MDT
+
+>#259,   OK @ 0405MDT
+
+>#121,   OK @ 0405MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0405
+# 59 IN:0304
+# 173 IN:0220
+# 181 IN:0315
+Total runners:3
+
+>At 0406 hours, Runner 334 Mikal Epperson last reported
+Left  Ant Knolls(K) at 0303. Proj. at  Pole Line Pass(L) 0409.
+*****
+
+>#334,   OK @ 0406MDT
+
+>At 0407 hours, Runner 173 Scott Zipprich last reported
+Arrived  Pole Line Pass (L) at 0220
+*****
+
+>#324,   OK @ 0409MDT
+
+>#292,   OK @ 0410MDT
+
+>#334,   OK @ 0411MDT
+
+>At 0411 hours, Runner 324 Carsen Gay last reported
+Arrived  Pole Line Pass (L) at 0409
+B 0930 0936
+C 1034 1035
+D 1320 1326
+E 1545 1550
+F 1719 1735
+G 2010 2013
+H 2148 2150
+I 2312 2313
+J 0021 
+K 0243 
+L 0409 
+*****
+
+>#324,   OK @ 0413MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0413
+# 59 IN:0304
+# 173 IN:0220
+# 181 IN:0315
+# 292 IN:0409
+Total runners:4
+
+>#327,   OK @ 0415MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0417 hours
+224 Greg Jackson Projected in at 0417 hours
+171 Jeff Galloway Projected in at 0420 hours
+57 Andrew Cornelia Projected in at 0424 hours
+219 Robert Dailey Projected in at 0424 hours
+276 Alison Memmott Projected in at 0428 hours
+12 Vince Johnson Projected in at 0438 hours
+331 David Hoffman Projected in at 0438 hours
+6 Sean Nakamura Projected in at 0443 hours
+283 Andrea Martinez Projected in at 0445 hours
+355 Walter Handloser Projected in at 0451 hours
+
+>
+>At 0419 hours, Runner 219 Robert Dailey last reported
+Left  Ant Knolls(K) at 0318. Proj. at  Pole Line Pass(L) 0424.
+*****
+
+>#171,   OK @ 0420MDT
+
+>At 0423 hours, Runner 334 Mikal Epperson last reported
+Left  Pole Line Pass(L) at 0410. Proj. at  Rock Springs(M) 0537.
+*****
+
+>At 0424 hours, Runner 056 Matthew Anderson last reported
+DNFT CHKPT B at time 1325 Going to BIG MOUNTAIN Via GREG WILL SHUTTLE
+*****
+
+>#327,   OK @ 0425MDT
+
+>At 0425 hours, Runner 327 Desiree Barnes last reported
+Left  Pole Line Pass(L) at 0425. Proj. at  Rock Springs(M) 0552.
+*****
+
+>Last Runners list as of 0427 hours
+1 207 Bill Thompson in  Desolation Lake 0256 hours
+2 20 Chihping Fu out  Desolation Lake 0425 hours
+3 187 Andrea Lusk out  Desolation Lake 0423 hours
+4 178 Wanvipa Ruangpradit out  Desolation Lake 0403 hours
+5 51 Carter Dunn out  Desolation Lake 0403 hours
+6 210 Jim Milar out  Desolation Lake 0357 hours
+7 375 Jodi Martin Fessler out  Desolation Lake 0348 hours
+8 203 Jake Stapp out  Desolation Lake 0326 hours
+9 168 Gillian Soles out  Desolation Lake 0326 hours
+10 10 Bruce Holbert out  Desolation Lake 0323 hours
+
+>#292,   OK @ 0428MDT
+
+>#224,   OK @ 0429MDT
+
+>#219,   OK @ 0429MDT
+
+> Pole Line Pass Problems at 0430 hours
+
+>#225,   OK @ 0430MDT
+
+>#171,   OK @ 0431MDT
+
+>#292,   OK @ 0431MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0432
+# 59 IN:0304
+# 171 IN:0419
+# 173 IN:0220
+# 181 IN:0315
+# 219 IN:0428
+# 224 IN:0428
+# 225 IN:0430
+Total runners:7
+
+>#057,   OK @ 0434MDT
+
+>#276,   OK @ 0436MDT
+
+>#171,   OK @ 0437MDT
+
+>#224,   OK @ 0437MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0437
+# 57 IN:0434
+# 59 IN:0304
+# 173 IN:0220
+# 181 IN:0315
+# 219 IN:0428
+# 225 IN:0430
+# 276 IN:0436
+Total runners:7
+
+>#276,   OK @ 0441MDT
+
+>At 0442 hours, Runner 171 Jeff Galloway last reported
+Left  Pole Line Pass(L) at 0436. Proj. at  Rock Springs(M) 0603.
+*****
+
+>#283,   OK @ 0443MDT
+
+>#006,   OK @ 0444MDT
+
+>#247,   OK @ 0444MDT
+
+>#219,   OK @ 0447MDT
+
+>#331,   OK @ 0448MDT
+
+>#057,   OK @ 0448MDT
+
+>#283,   OK @ 0450MDT
+
+>#099,   OK @ 0452MDT
+
+>#006,   OK @ 0453MDT
+
+> Pole Line Pass Runners In and NOT Out as of 0453
+# 59 IN:0304
+# 99 IN:0451
+# 173 IN:0220
+# 181 IN:0315
+# 225 IN:0430
+# 247 IN:0443
+# 331 IN:0447
+Total runners:7
+
+>At 0454 hours, Runner 164 Dustin Sandquist last reported
+Left  Rock Springs(M) at 0438. Proj. at  Pot Hollow(N) 0636.
+*****
+
+>#355,   OK @ 0454MDT
+
+>#099,  #331,   OK @ 0455MDT
+
+>#012,   OK @ 0456MDT
+
+>#247,   OK @ 0456MDT
+
+>Next 10 runners inbound to  Pole Line Pass as of 0457 hours
+42 Michael Deras Projected in at 0501 hours
+153 Perry Hacker Projected in at 0503 hours
+190 Jared Carling Projected in at 0503 hours
+13 Wan Ho Kou Projected in at 0523 hours
+97 Elizabeth Davis Projected in at 0525 hours
+330 Brian Corey Projected in at 0526 hours
+365 Erin Clark Projected in at 0530 hours
+358 Martin Schneekloth Projected in at 0532 hours
+350 Andres Hernandez Projected in at 0535 hours
+385 Clark Hirschi Projected in at 0535 hours
+
+>#392,   OK @ 0503MDT
+
+>#153,   OK @ 0505MDT
+
+>At 0509 hours, Runner 185 Pete Horan last reported
+Left  Brighton Lodge(J) at 0142. Proj. at  Ant Knolls(K) 0338.
+*****
+
+>#355,   OK @ 0510MDT
+
+> Pole Line Pass Problems at 0510 hours
+
+>
