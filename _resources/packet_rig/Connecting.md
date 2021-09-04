@@ -112,3 +112,6 @@ Run the `nodes` command to verify that `RACE` is connected. Connect to RACE:
 ```
 connect RACE
 ```
+
+### w100Boot.sh
+For convenience, there is a small script in the root folder of this repository that can be used to configure the ports and connect to the W100 race system. There is also a standalone copy of the script in the user folder: `~/w100Boot.sh`. You should first inspect the details of the script and make sure that it's configured how you want it before running.
