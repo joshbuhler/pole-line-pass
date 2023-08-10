@@ -1,6 +1,8 @@
 # About pole-line-pass
 Scripts, info, and other stuff used by the team at the Wasatch 100 Pole Line Pass communications station.
 
+The info will remain in the repo here, but I will also be adding it to [the wiki](https://github.com/joshbuhler/pole-line-pass/wiki) to make things a bit more readable in a few places.
+
 ## Resources
 There are a few things in the `_resources` folder that are somewhat useful. Here's what you'll find:
 
